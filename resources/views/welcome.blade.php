@@ -106,7 +106,7 @@
         <div class="carousel-inner">
 
             <div class="carousel-item active">
-                <div class="page-header " style="background-image: url('/assets/image/header1.png');">
+                <div class="page-header " style="background-image: url('/assets/image/header1.PNG');">
                     <div class="container">
 
                     </div>
@@ -114,7 +114,7 @@
             </div>
 
             <div class="carousel-item">
-                <div class="page-header " style="background-image: url('/assets/image/header2.png');">
+                <div class="page-header " style="background-image: url('/assets/image/header2.PNG');">
                     <div class="container">
 
                     </div>
@@ -122,7 +122,7 @@
             </div>
 
             <div class="carousel-item">
-                <div class="page-header " style="background-image: url('/assets/image/header3.png');">
+                <div class="page-header " style="background-image: url('/assets/image/header3.PNG');">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-7 ml-auto text-right">
