@@ -200,6 +200,64 @@
                 </div>
             </div>
         </div>
+
+
+
+
+
+        <div class="section text-center">
+            <h2 class="title">ŞUBELERİMİZ</h2>
+            <div class="team">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card card-profile card-plain">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <iframe src="https://player.vimeo.com/video/539138593" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="col-md-4">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-profile card-plain">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <iframe src="https://player.vimeo.com/video/539136756" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="col-md-4">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-profile card-plain">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <iframe src="https://player.vimeo.com/video/539134637" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="col-md-4">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-profile card-plain">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <iframe src="https://player.vimeo.com/video/539134637" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="col-md-4">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="section text-center">
             <h2 class="title">ÜRÜNLERİMİZ</h2>
             <div class="team">
@@ -300,6 +358,12 @@
                 </div>
             </div>
         </div>
+
+
+
+
+
+
         <div class="section section-contacts">
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto">
