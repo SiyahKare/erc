@@ -139,9 +139,7 @@
                                     <a href="#pablo" class="btn btn-just-icon btn-white btn-link">
                                         <i class="fa fa-facebook-square"></i>
                                     </a>
-                                    <a href="#pablo" class="btn btn-danger btn-lg">
-                                        <i class="material-icons">shopping_cart</i> TANITIM VİDEOSU
-                                    </a>
+
                                 </div>
                             </div>
                         </div>
@@ -361,33 +359,37 @@
                         <p>7/24 telefonlar ile bilgi iletişimi sağlanmaktadır. Özellikle yaşlı hastalara evde uygulama ve bakım hizmeti verilmektedir. En kısa zamanda sizi merkezimize tanışmaya bekliyoruz. </p>
                     </div>
                     <div class="col-md-4">
-                        <h5>Social Feed</h5>
+                        <h5>Şubelerimiz</h5>
                         <div class="social-feed">
                             <div class="feed-line">
-                                <i class="fa fa-twitter"></i>
-                                <p>How to handle ethical disagreements with your clients.</p>
+                                <i class="fa fa-globe"></i>
+                                <p><strong>MERKEZ ŞUBE</strong> Alemdar Cad. Beyaz Han Is Merkezi (4 Yol Ziraat Bank. Üstü) No:21 Kat:2 Izmit/KOCAELI</p>
                             </div>
                             <div class="feed-line">
-                                <i class="fa fa-twitter"></i>
-                                <p>The tangible benefits of designing at 1x pixel density.</p>
+                                <i class="fa fa-globe"></i>
+                                <p><strong>+ PLUS ŞUBE</strong> Cedit Mahallesi Bostanlar Sokak No:10 Kat:1 D:2 (Kocaeli Devlet Hastanesi çaprazı) Izmit/KOCAELI</p>
                             </div>
                             <div class="feed-line">
-                                <i class="fa fa-facebook-square"></i>
-                                <p>A collection of 25 stunning sites that you can use for inspiration.</p>
+                                <i class="fa fa-globe"></i>
+                                <p><strong>DERİNCE ŞUBE</strong> İbnisina Mah. Okul Sok. No:2 C (Poliklinik kapısı çaprazı), Derince/Kocaeli</p>
+                            </div>
+                            <div class="feed-line">
+                                <i class="fa fa-globe"></i>
+                                <p><strong>SAKARYA ŞUBE</strong> ERC ÇARK İşitme Cihazları Arabacı Alanı Mah. Şehit Ast. Ali Kaya Sok. No:7, Serdivan/Sakarya</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <h5>Instagram Feed</h5>
+                        <h5>ÜRÜNLER</h5>
                         <div class="gallery-feed">
-                            <img src="/vendor/mkitbs4/assets/img/faces/card-profile6-square.jpg" class="img img-raised rounded" alt="">
-                            <img src="/vendor/mkitbs4/assets/img/faces/christian.jpg" class="img img-raised rounded" alt="">
-                            <img src="/vendor/mkitbs4/assets/img/faces/card-profile4-square.jpg" class="img img-raised rounded" alt="">
-                            <img src="/vendor/mkitbs4/assets/img/faces/card-profile1-square.jpg" class="img img-raised rounded" alt="">
-                            <img src="/vendor/mkitbs4/assets/img/faces/marc.jpg" class="img img-raised rounded" alt="">
-                            <img src="/vendor/mkitbs4/assets/img/faces/kendall.jpg" class="img img-raised rounded" alt="">
-                            <img src="/vendor/mkitbs4/assets/img/faces/card-profile5-square.jpg" class="img img-raised rounded" alt="">
-                            <img src="/vendor/mkitbs4/assets/img/faces/card-profile2-square.jpg" class="img img-raised rounded" alt="">
+                            <img src="/assets/image/signia/1styletto.png" class="img img-raised rounded" alt="">
+                            <img src="/assets/image/signia/2motiongox.png" class="img img-raised rounded" alt="">
+                            <img src="/assets/image/signia/3purecharge.png" class="img img-raised rounded" alt="">
+                            <img src="/assets/image/signia/4pure312x.png" class="img img-raised rounded" alt="">
+                            <img src="/assets/image/signia/5cros.jpeg" class="img img-raised rounded" alt="">
+                            <img src="/assets/image/signia/6insioiic.jpeg" class="img img-raised rounded" alt="">
+                            <img src="/assets/image/signia/7insioitt.jpeg" class="img img-raised rounded" alt="">
+                            <img src="/assets/image/signia/8signiasilk.png" class="img img-raised rounded" alt="">
                         </div>
                     </div>
                 </div>
@@ -406,17 +408,17 @@
                 </li>
                 <li>
                     <a href="#pablo">
-                        S.S.S.
+                        ŞUBELER
                     </a>
                 </li>
                 <li>
                     <a href="#pablo">
-                        Hakkımızda
+                        ERC TV
                     </a>
                 </li>
                 <li>
                     <a href="#pablo">
-                        İletişim
+                        HAKKIMIZDA
                     </a>
                 </li>
             </ul>

@@ -9,7 +9,7 @@
     <link rel="apple-touch-icon" href="/vendor/mkitbs4/assets/img/apple-icon.png">
     <link rel="icon" href="/vendor/mkitbs4/assets/img/favicon.png">
     <title>
-        ERC İşitme Cihazları
+        ERC İşitme Cihazları - Ürünler - Signia - Insio Nx IIC/CIC
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
@@ -21,7 +21,7 @@
     <link href="/vendor/mkitbs4/assets/assets-for-demo/vertical-nav.css" rel="stylesheet" />
 </head>
 
-<body class="ecommerce ">
+<body class="product-page ">
 <nav class="navbar navbar-inverse navbar-expand-lg fixed-top bg-dark" id="sectionsNav">
     <!--
     <nav class="navbar navbar-color-on-scroll navbar-transparent    fixed-top  navbar-expand-lg " color-on-scroll="100" id="sectionsNav">
@@ -45,9 +45,6 @@
                     <div class="dropdown-menu dropdown-with-icons">
                         <a href="/urunler-signia" class="dropdown-item">
                             <i class="material-icons">layers</i> SIGNIA
-                        </a>
-                        <a href="/urunler-widex" class="dropdown-item">
-                            <i class="material-icons">layers</i> WIDEX
                         </a>
                         <a href="/" class="dropdown-item">
                             <i class="material-icons">layers</i> Temizlik ve Bakım
@@ -97,158 +94,110 @@
         </div>
     </div>
 </nav>
-<div class="page-header header-small" data-parallax="true" style="background-image: url(&apos;/assets/image/header-signia.png&apos;);">
+<div class="page-header header-filter" data-parallax="true" filter-color="red" style="background-image: url(&apos;/vendor/mkitbs4/assets/img/bg2.jpg&apos;);">
+
+</div>
+<div class="section section-gray">
     <div class="container">
-        <div class="row">
-            <div class="col-md-8 ml-auto mr-auto text-center">
-
-            </div>
-        </div>
-    </div>
-</div>
-<div class="main main-raised">
-    <div class="section">
-        <div class="container">
-            <h2 class="section-title">Ürünler</h2>
+        <div class="main main-raised main-product">
             <div class="row">
-                <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#pablo">
-                                <img src="/assets/image/signia/1styletto.png" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body text-center">
-                            <h4 class="card-title">
-                                <a href="#">Styletto X</a>
-                            </h4>
-                            <p class="card-description">O, bir işitme cihazından fazlası. Stil sahibi işitme deneyimi. İkonik Styletto X, ödül sahibi tasarımı ve kablosuz şarj özelliklerini kristal netliğinde ses kalitesiyle bütünlüyor. </p>
+                <div class="col-md-6 col-sm-6">
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="product-page1">
+                            <img src="/assets/image/signia/6insioiic.jpeg" />
                         </div>
                     </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#">
-                                <img src="/assets/image/signia/2motiongox.png" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Motion Charge&Go X</h4>
-                            <p class="card-description">Sahip oldukları devrim niteliğindeki sensör teknolojisi sayesinde hareket edip etmediğinizi anlar ve gün içinde hareket halindeyken etrafınızda olup biten her şeyi deneyimlemenizi sağlar.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#pablo">
-                                <img src="/assets/image/signia/3purecharge.png" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Pure Charge&Go X</h4>
-                            <p class="card-description">Çok yönlü şarj edilebilir işitme cihazları ile en önemli anlarınıza odaklanın.</p>
-                        </div>
 
-                    </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#pablo">
-                                <img src="/assets/image/signia/4pure312x.png" alt="">
-                            </a>
+                <div class="col-md-6 col-sm-6">
+                    <h2 class="title"> Insio Nx IIC/CIC </h2>
+                    <h3 class="main-price">Doğal ses kaliteli en küçük işitme cihazı</h3>
+                    <div id="accordion" role="tablist">
+                        <div class="card card-collapse">
+                            <div class="card-header" role="tab" id="headingOne">
+                                <h5 class="mb-0">
+                                    <a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        Açıklama
+                                        <i class="material-icons">keyboard_arrow_down</i>
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                                <div class="card-body">
+                                    <p>Doğal ses kaliteli en küçük işitme cihazı. Hayat birlikte güzeldir. Signia’nın en son Insio ™ işitme cihazları kulak anatominize ve işitme kaybınıza göre uyarlanmıştır, böylece görünümünüzden ödün vermeden sevdiklerinizle vakit geçirmenin keyfini çıkartabilirsiniz.</p>
+                                </div>
+                            </div>
                         </div>
-                        <div class="card-body text-center">
-                            <h4 class="card-title">
-                                <a href="#pablo">Pure 312 X</a>
-                            </h4>
-                            <p class="card-description">Her sesi doğru ses yüksekliğinde, geldikleri yönün farkında olarak; yani en doğal haliyle duyabilirsiniz. Tam da doğanın amaçladığı gibi…</p>
+                        <div class="card card-collapse">
+                            <div class="card-header" role="tab" id="headingTwo">
+                                <h5 class="mb-0">
+                                    <a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Teknik Özellikler
+                                        <i class="material-icons">keyboard_arrow_down</i>
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+                                <div class="card-body">
+                                    An infusion of West Coast cool and New York attitude, Rebecca Minkoff is synonymous with It girl style. Minkoff burst on the fashion scene with her best-selling &apos;Morning After Bag&apos; and later expanded her offering with the Rebecca Minkoff Collection - a range of luxe city staples with a &quot;downtown romantic&quot; theme.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card card-collapse">
+                            <div class="card-header" role="tab" id="headingThree">
+                                <h5 class="mb-0">
+                                    <a class="collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        Bakım Önerileri
+                                        <i class="material-icons">keyboard_arrow_down</i>
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li>Storm and midnight-blue stretch cotton-blend</li>
+                                        <li>Notch lapels, functioning buttoned cuffs, two front flap pockets, single vent, internal pocket</li>
+                                        <li>Two button fastening</li>
+                                        <li>84% cotton, 14% nylon, 2% elastane</li>
+                                        <li>Dry clean</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#pablo">
-                                <img src="/assets/image/signia/5cros.jpeg" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Cros X</h4>
-                            <p class="card-description">Tek taraflı işitme kayıpları için sunduğumuz çözümlerle hayatın akışından kopmayın</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-insio">
-                                <img src="/assets/image/signia/6insioiic.jpeg" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <a href="/urunler-insio">
-                                <h4 class="card-title">Insio Nx IIC/CIC</h4>
-                            </a>
-                            <p class="card-description">Doğal ses kaliteli en küçük işitme cihazı.
-                                Hayat birlikte güzeldir. Signia’nın en son Insio ™ işitme cihazları kulak anatominize ve işitme kaybınıza göre uyarlanmıştır, böylece görünümünüzden ödün vermeden sevdiklerinizle vakit geçirmenin keyfini çıkartabilirsiniz.</p>
-                        </div>
 
+                    <div class="row pull-right">
+                        <button class="btn btn-success btn-round"><a href="https://api.whatsapp.com/send?phone=+905350470705&text=Merhaba,%20bilgi%20istiyorum" >
+                                <i class="fa fa-whatsapp"></i> SORU SOR
+                            </a></button>
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="features text-center">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#pablo">
-                                <img src="/assets/image/signia/7insioitt.jpeg" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body text-center">
-                            <h4 class="card-title">
-                                <a href="#pablo">Insio Nx ITC/ITE</a>
-                            </h4>
-                            <p class="card-description">Bluetooth özelliğine sahip kulak içi işitme cihazıyla konuşmaları en iyi haliyle kavrama imkanı.</p>
-                        </div>
+                    <div class="info">
+
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#pablo">
-                                <img src="/assets/image/signia/8signiasilk.png" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Signia Silk X</h4>
-                            <p class="card-description">Dünyanın en küçük işitme cihazlarından biri olan Silk, cihazlarınızın fark edilmediğini bilmenin güvenini verir. Tüm modeller kulağınıza gizlilikle yerleşir.</p>
-                        </div>
+                    <div class="info">
+                        <img src="/assets/image/sgk-logo.png" />
+                        <h4 class="info-title">İLE ANLAŞMALI KURUM</h4>
+
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#pablo">
-                                <img src="/assets/image/signia/9signiaassistans.jpeg" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Signia Assistans</h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
-                        </div>
+                    <div class="info">
 
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
 </div>
-<!-- end-main-raised -->
 <footer class="footer footer-black footer-big">
     <div class="container">
         <div class="content">
@@ -359,26 +308,24 @@
 <script src="/vendor/mkitbs4/assets/assets-for-demo/js/material-kit-demo.js"></script>
 <script>
     $(document).ready(function() {
-
-        var slider2 = document.getElementById('sliderRefine');
-
-        noUiSlider.create(slider2, {
-            start: [101, 790],
-            connect: true,
-            range: {
-                'min': [30],
-                'max': [900]
-            }
-        });
-
-        var limitFieldMin = document.getElementById('price-left');
-        var limitFieldMax = document.getElementById('price-right');
-
-        slider2.noUiSlider.on('update', function(values, handle) {
-            if (handle) {
-                limitFieldMax.innerHTML = $('#price-right').data('currency') + Math.round(values[handle]);
-            } else {
-                limitFieldMin.innerHTML = $('#price-left').data('currency') + Math.round(values[handle]);
+        $("#flexiselDemo1").flexisel({
+            visibleItems: 4,
+            itemsToScroll: 1,
+            animationSpeed: 400,
+            enableResponsiveBreakpoints: true,
+            responsiveBreakpoints: {
+                portrait: {
+                    changePoint: 480,
+                    visibleItems: 3
+                },
+                landscape: {
+                    changePoint: 640,
+                    visibleItems: 3
+                },
+                tablet: {
+                    changePoint: 768,
+                    visibleItems: 3
+                }
             }
         });
     });

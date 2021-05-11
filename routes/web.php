@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/urunler-signia', function () {
     return view('urunler-signia');
 });
+
+Route::get('/urunler-insio', function () {
+    return view('urunler-insio');
+});
