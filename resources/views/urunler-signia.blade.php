@@ -9,7 +9,7 @@
     <link rel="apple-touch-icon" href="/vendor/mkitbs4/assets/img/apple-icon.png">
     <link rel="icon" href="/vendor/mkitbs4/assets/img/favicon.png">
     <title>
-        Ecommerce &#45; Material Kit PRO by Creative Tim
+        ERC İşitme Cihazları
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
@@ -112,14 +112,27 @@
                     <div class="card card-product card-plain">
                         <div class="card-header card-header-image">
                             <a href="#pablo">
-                                <img src="/assets/image/signia/styletto.png" alt="">
+                                <img src="/assets/image/signia/1styletto.png" alt="">
                             </a>
                         </div>
                         <div class="card-body text-center">
                             <h4 class="card-title">
-                                <a href="#pablo">Gucci</a>
+                                <a href="#">Styletto X</a>
                             </h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
+                            <p class="card-description">O, bir işitme cihazından fazlası. Stil sahibi işitme deneyimi. İkonik Styletto X, ödül sahibi tasarımı ve kablosuz şarj özelliklerini kristal netliğinde ses kalitesiyle bütünlüyor. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card card-product card-plain">
+                        <div class="card-header card-header-image">
+                            <a href="#">
+                                <img src="/assets/image/signia/2motiongox.png" alt="">
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Motion Charge&Go X</h4>
+                            <p class="card-description">Sahip oldukları devrim niteliğindeki sensör teknolojisi sayesinde hareket edip etmediğinizi anlar ve gün içinde hareket halindeyken etrafınızda olup biten her şeyi deneyimlemenizi sağlar.</p>
                         </div>
                     </div>
                 </div>
@@ -127,25 +140,12 @@
                     <div class="card card-product card-plain">
                         <div class="card-header card-header-image">
                             <a href="#pablo">
-                                <img src="/assets/image/signia/motiongox.png" alt="">
+                                <img src="/assets/image/signia/3purecharge.png" alt="">
                             </a>
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Dolce &amp; Gabbana</h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card card-product card-plain">
-                        <div class="card-header card-header-image">
-                            <a href="#pablo">
-                                <img src="/assets/image/signia/purecharge.png" alt="">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Dolce &amp; Gabbana</h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
+                            <h4 class="card-title">Pure Charge&Go X</h4>
+                            <p class="card-description">Çok yönlü şarj edilebilir işitme cihazları ile en önemli anlarınıza odaklanın.</p>
                         </div>
 
                     </div>
@@ -156,14 +156,14 @@
                     <div class="card card-product card-plain">
                         <div class="card-header card-header-image">
                             <a href="#pablo">
-                                <img src="/assets/image/signia/pure312x.png" alt="">
+                                <img src="/assets/image/signia/4pure312x.png" alt="">
                             </a>
                         </div>
                         <div class="card-body text-center">
                             <h4 class="card-title">
-                                <a href="#pablo">Gucci</a>
+                                <a href="#pablo">Pure 312 X</a>
                             </h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
+                            <p class="card-description">Her sesi doğru ses yüksekliğinde, geldikleri yönün farkında olarak; yani en doğal haliyle duyabilirsiniz. Tam da doğanın amaçladığı gibi…</p>
                         </div>
                     </div>
                 </div>
@@ -171,12 +171,12 @@
                     <div class="card card-product card-plain">
                         <div class="card-header card-header-image">
                             <a href="#pablo">
-                                <img src="/assets/image/signia/purecharge.png" alt="">
+                                <img src="/assets/image/signia/5cros.jpeg" alt="">
                             </a>
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Dolce &amp; Gabbana</h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
+                            <h4 class="card-title">Cros X</h4>
+                            <p class="card-description">Tek taraflı işitme kayıpları için sunduğumuz çözümlerle hayatın akışından kopmayın</p>
                         </div>
                     </div>
                 </div>
@@ -184,12 +184,13 @@
                     <div class="card card-product card-plain">
                         <div class="card-header card-header-image">
                             <a href="#pablo">
-                                <img src="/assets/image/signia/purecharge.png" alt="">
+                                <img src="/assets/image/signia/6insioiic.jpeg" alt="">
                             </a>
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Dolce &amp; Gabbana</h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
+                            <h4 class="card-title">Insio Nx IIC/CIC</h4>
+                            <p class="card-description">Doğal ses kaliteli en küçük işitme cihazı.
+                                Hayat birlikte güzeldir. Signia’nın en son Insio ™ işitme cihazları kulak anatominize ve işitme kaybınıza göre uyarlanmıştır, böylece görünümünüzden ödün vermeden sevdiklerinizle vakit geçirmenin keyfini çıkartabilirsiniz.</p>
                         </div>
 
                     </div>
@@ -200,14 +201,14 @@
                     <div class="card card-product card-plain">
                         <div class="card-header card-header-image">
                             <a href="#pablo">
-                                <img src="/vendor/mkitbs4/assets/img/examples/gucci.jpg" alt="">
+                                <img src="/assets/image/signia/7insioitt.jpeg" alt="">
                             </a>
                         </div>
                         <div class="card-body text-center">
                             <h4 class="card-title">
-                                <a href="#pablo">Gucci</a>
+                                <a href="#pablo">Insio Nx ITC/ITE</a>
                             </h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
+                            <p class="card-description">Bluetooth özelliğine sahip kulak içi işitme cihazıyla konuşmaları en iyi haliyle kavrama imkanı.</p>
                         </div>
                     </div>
                 </div>
@@ -215,12 +216,12 @@
                     <div class="card card-product card-plain">
                         <div class="card-header card-header-image">
                             <a href="#pablo">
-                                <img src="/vendor/mkitbs4/assets/img/examples/dolce.jpg" alt="">
+                                <img src="/assets/image/signia/8signiasilk.png" alt="">
                             </a>
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Dolce &amp; Gabbana</h4>
-                            <p class="card-description">The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square and leather loafers.</p>
+                            <h4 class="card-title">Signia Silk X</h4>
+                            <p class="card-description">Dünyanın en küçük işitme cihazlarından biri olan Silk, cihazlarınızın fark edilmediğini bilmenin güvenini verir. Tüm modeller kulağınıza gizlilikle yerleşir.</p>
                         </div>
                     </div>
                 </div>
@@ -228,7 +229,7 @@
                     <div class="card card-product card-plain">
                         <div class="card-header card-header-image">
                             <a href="#pablo">
-                                <img src="/vendor/mkitbs4/assets/img/examples/tom-ford.jpg" alt="">
+                                <img src="/assets/image/signia/9signiaassistans.jpeg" alt="">
                             </a>
                         </div>
                         <div class="card-body">
@@ -248,9 +249,9 @@
         <div class="content">
             <div class="row">
                 <div class="col-md-4">
-                    <h5>About Us</h5>
-                    <p>Creative Tim is a startup that creates design tools that make the web development process faster and easier. </p>
-                    <p>We love the web and care deeply for how users interact with a digital product. We power businesses and individuals to create better looking web projects around the world. </p>
+                    <h5>Hakkımızda</h5>
+                    <p>Hizmet alanlarımız içerisinde , işitme testleri, işitme cihazı ve aksesuarları satışı, kulak kalıbı, işitme cihazı tamir, bakım, montaj ve servis hizmetleri bulunmaktadır.  </p>
+                    <p>7/24 telefonlar ile bilgi iletişimi sağlanmaktadır. Özellikle yaşlı hastalara evde uygulama ve bakım hizmeti verilmektedir. En kısa zamanda sizi merkezimize tanışmaya bekliyoruz. </p>
                 </div>
                 <div class="col-md-4">
                     <h5>Social Feed</h5>

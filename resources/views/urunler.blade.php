@@ -9,7 +9,7 @@
     <link rel="apple-touch-icon" href="/vendor/mkitbs4/assets/img/apple-icon.png">
     <link rel="icon" href="/vendor/mkitbs4/assets/img/favicon.png">
     <title>
-        Ecommerce &#45; Material Kit PRO by Creative Tim
+        ERC İşitme Cihazları :: Ürünler
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
@@ -898,9 +898,9 @@
         <div class="content">
             <div class="row">
                 <div class="col-md-4">
-                    <h5>About Us</h5>
-                    <p>Creative Tim is a startup that creates design tools that make the web development process faster and easier. </p>
-                    <p>We love the web and care deeply for how users interact with a digital product. We power businesses and individuals to create better looking web projects around the world. </p>
+                    <h5>Hakkımızda</h5>
+                    <p>Hizmet alanlarımız içerisinde , işitme testleri, işitme cihazı ve aksesuarları satışı, kulak kalıbı, işitme cihazı tamir, bakım, montaj ve servis hizmetleri bulunmaktadır.  </p>
+                    <p>7/24 telefonlar ile bilgi iletişimi sağlanmaktadır. Özellikle yaşlı hastalara evde uygulama ve bakım hizmeti verilmektedir. En kısa zamanda sizi merkezimize tanışmaya bekliyoruz. </p>
                 </div>
                 <div class="col-md-4">
                     <h5>Social Feed</h5>
