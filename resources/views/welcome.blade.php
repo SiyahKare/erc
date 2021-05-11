@@ -39,24 +39,27 @@
             <ul class="navbar-nav ml-auto">
                 <li class="dropdown nav-item">
                     <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">category</i> ÜRÜNLER
+                        <i class="material-icons">earbuds</i> ÜRÜNLER
                     </a>
                     <div class="dropdown-menu dropdown-with-icons">
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> Siemens
+                        <a href="/urunler-signia" class="dropdown-item">
+                            <i class="material-icons">earbuds</i> SIGNIA
+                        </a>
+                        <a href="/urunler-widex" class="dropdown-item">
+                            <i class="material-icons">earbuds</i> WIDEX
                         </a>
                         <a href="/" class="dropdown-item">
-                            <i class="material-icons">layers</i> Temizlik ve Bakım
+                            <i class="material-icons">earbuds</i> Temizlik ve Bakım
                         </a>
                         <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> Piller
+                            <i class="material-icons">earbuds</i> Piller
                         </a>
                     </div>
                 </li>
 
                 <li class="dropdown nav-item">
                     <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">category</i> ŞUBELERİMİZ
+                        <i class="material-icons">place</i> ŞUBELERİMİZ
                     </a>
                     <div class="dropdown-menu dropdown-with-icons">
                         <a href="/urunler/siemens" class="dropdown-item">
@@ -76,17 +79,17 @@
 
                 <li class="dropdown nav-item">
                     <a href="#" class=" nav-link" data-toggle="dropdown">
-                        <i class="material-icons">quiz</i> Sık Sorulan Sorular
+                        <i class="material-icons">slideshow</i> ERC TV
                     </a>
                 </li>
                 <li class="dropdown nav-item">
                     <a href="#" class=" nav-link" data-toggle="dropdown">
-                        <i class="material-icons">view_carousel</i> Hakkımızda
+                        <i class="material-icons">help_center</i> Hakkımızda
                     </a>
                 </li>
                 <li class="button-container nav-item">
-                    <a href="/" class="btn  btn-rose   btn-round btn-block">
-                        <i class="material-icons">contact_page</i> İLETİŞİM
+                    <a href="https://api.whatsapp.com/send?phone=+905350470705&text=Merhaba,%20bilgi%20istiyorum" class="btn  btn-success btn-round btn-block">
+                        <i class="fa fa-whatsapp"></i> İLETİŞİM
                     </a>
                 </li>
             </ul>
@@ -247,7 +250,7 @@
                         <div class="card card-profile card-plain">
                             <div class="row">
                                 <div class="col-md-8">
-                                    <iframe src="https://player.vimeo.com/video/539134637" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe src="https://player.vimeo.com/video/539132291" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <div class="col-md-4">
                                 </div>
@@ -259,7 +262,7 @@
         </div>
 
         <div class="section text-center">
-            <h2 class="title">ÜRÜNLERİMİZ</h2>
+            <h2 class="title">MARKALARIMIZ</h2>
             <div class="team">
                 <div class="row">
                     <div class="col-md-6">
@@ -268,17 +271,14 @@
                                 <div class="col-md-5">
                                     <div class="card-header card-header-image">
                                         <a href="#pablo">
-                                            <img class="img" src="/assets/image/silk.jpg">
+                                            <img class="img" src="/assets/image/signia.png">
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-md-7">
+                                <div align="left" class="col-md-7">
                                     <div class="card-body">
-                                        <h4 class="card-title">Silk</h4>
-                                        <h6 class="category text-muted">Hazır CIC</h6>
-                                        <p class="card-description">
-                                            Yeni Silk™ dünyanın en küçük işitme cihazlarından biridir, ...
-                                        </p>
+                                        <h3 class="card-title">SIGNIA SIEMENS</h3>
+                                        <h4>Kocaelide Tek Yetkili Bayi</h4>
                                     </div>
 
                                 </div>
@@ -291,70 +291,20 @@
                                 <div class="col-md-5">
                                     <div class="card-header card-header-image">
                                         <a href="#pablo">
-                                            <img class="img" src="/assets/image/pure.jpg">
+                                            <img class="img" src="/assets/image/widex.png">
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-md-7">
+                                <div align="left" class="col-md-7">
                                     <div class="card-body">
-                                        <h4 class="card-title">PURE 13 NX</h4>
-                                        <h6 class="category text-muted"> </h6>
-                                        <p class="card-description">
-                                            Don't be scared of the truth because we need to restart the human foundation in truth...
-                                        </p>
+                                        <h3 class="card-title">WIDEX</h3>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
-                        <div class="card card-profile card-plain">
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <div class="card-header card-header-image">
-                                        <a href="#pablo">
-                                            <img class="img" src="/assets/image/acebinax.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-md-7">
-                                    <div class="card-body">
-                                        <h4 class="card-title">ACE BİNAX</h4>
-                                        <h6 class="category text-muted"> </h6>
-                                        <p class="card-description">
-                                            Ultra küçük dizayn.
-                                            Uzaktan kumanda edebilme.
-                                            Düşük ve yüksek seviyeli işitme kayıplarında 10A numara pil büyüklüğü.
-                                        </p>
-                                    </div>
 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card card-profile card-plain">
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <div class="card-header card-header-image">
-                                        <a href="#pablo">
-                                            <img class="img" src="/assets/image/motion.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-md-7">
-                                    <div class="card-body">
-                                        <h4 class="card-title">MOTİON BİNAX</h4>
-                                        <h6 class="category text-muted"> </h6>
-                                        <p class="card-description">
-                                            I love you like Kanye loves Kanye. Don't be scared of the truth because we need to restart the human foundation.
-                                        </p>
-                                    </div>
 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -367,7 +317,7 @@
         <div class="section section-contacts">
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto">
-                    <h2 class="text-center title">Bize Ulaşın</h2>
+                    <h2 class="text-center title">Randevu Formu</h2>
                     <form class="contact-form">
                         <div class="row">
                             <div class="col-md-6">
