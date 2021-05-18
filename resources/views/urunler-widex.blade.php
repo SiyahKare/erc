@@ -97,7 +97,7 @@
         </div>
     </div>
 </nav>
-<div class="page-header header-small" data-parallax="true" style="background-image: url(&apos;/assets/image/signia-header.jpg&apos;);">
+<div class="page-header header-small" data-parallax="true" style="background-image: url(&apos;/assets/image/widex-header.png&apos;);">
     <div class="container">
         <div class="row">
             <div class="col-md-8 ml-auto mr-auto text-center">
@@ -120,14 +120,14 @@
                 <div class="col-md-4">
                     <div class="card card-blog">
                         <div class="card-header card-header-image">
-                            <a href="/urunler-styletto">
-                                <img src="/assets/image/products/signia/1styletto.png" alt="Styletto X">
+                            <a href="/urunler-widex-evoke">
+                                <img src="/assets/image/products/widex/evoke.jpeg" alt="Widex EVOKE™">
                             </a>
                         </div>
                         <div class="card-body">
-                            <h3 class="card-category text-rose">Styletto X</h3>
+                            <h3 class="card-category text-rose">Widex EVOKE™</h3>
                             <h5 class="card-title">
-                                <a href="/urunler-styletto">O, bir işitme cihazından fazlası. Stil sahibi işitme deneyimi. İkonik Styletto X, ödül sahibi tasarımı ve kablosuz şarj özelliklerini kristal netliğinde ses kalitesiyle bütünlüyor.</a>
+                                <a href="/urunler-widex-evoke">EVOKE işitme cihazı, akıllı bir cihazdan beklediğiniz gibi her kullandığınızda evrimleşir. </a>
                             </h5>
                         </div>
                     </div>
@@ -138,14 +138,14 @@
                 <div class="col-md-4">
                     <div class="card card-blog">
                         <div class="card-header card-header-image">
-                            <a href="/urunler-motiongox">
-                                <img src="/assets/image/products/signia/2motiongox.png" alt="Motion Charge&Go X">
+                            <a href="/urunler-widex-beyondz">
+                                <img src="/assets/image/products/widex/beyondz.jpeg" alt="WIDEX BEYOND Z™">
                             </a>
                         </div>
                         <div class="card-body">
-                            <h3 class="card-category text-rose">Motion Charge&Go X</h3>
+                            <h3 class="card-category text-rose">WIDEX BEYOND Z™</h3>
                             <h5 class="card-title">
-                                <a href="/urunler-motiongox">Sahip oldukları devrim niteliğindeki sensör teknolojisi sayesinde hareket edip etmediğinizi anlar ve gün içinde hareket halindeyken etrafınızda olup biten her şeyi deneyimlemenizi sağlar.</a>
+                                <a href="/urunler-widex-beyondz">EN İYİ SESLENDİRMEYE SAHİP ŞARJ EDİLEBİLİR İŞİTME CİHAZI </a>
                             </h5>
                         </div>
                     </div>
@@ -156,14 +156,14 @@
                 <div class="col-md-4">
                     <div class="card card-blog">
                         <div class="card-header card-header-image">
-                            <a href="/urunler-purecharge">
-                                <img src="/assets/image/products/signia/3purecharge.png" alt="Pure Charge&Go X">
+                            <a href="/urunler-widex-unique">
+                                <img src="/assets/image/products/widex/unique.png" alt="WIDEX UNIQUE">
                             </a>
                         </div>
                         <div class="card-body ">
-                            <h3 class="card-category text-rose">Pure Charge&Go X</h3>
+                            <h3 class="card-category text-rose">WIDEX UNIQUE </h3>
                             <h5 class="card-title">
-                                <a href="/urunler-purecharge">Çok yönlü şarj edilebilir işitme cihazları ile en önemli anlarınıza odaklanın.</a>
+                                <a href="/urunler-widex-unique">"İŞİTMEDE YENI UFUKLAR"</a>
                             </h5>
                         </div>
                     </div>
@@ -172,108 +172,6 @@
             </div>
 
 
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-pure312x">
-                                <img src="/assets/image/products/signia/4pure312x.png" alt="Pure 312 X">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h3 class="card-category text-rose">Pure 312 X</h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-pure312x">Her sesi doğru ses yüksekliğinde, geldikleri yönün farkında olarak; yani en doğal haliyle duyabilirsiniz. Tam da doğanın amaçladığı gibi…</a>
-                            </h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-cros">
-                                <img src="/assets/image/products/signia/5cros.jpeg" alt="Cros X">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h3 class="card-category text-rose">Cros X</h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-cros">Tek taraflı işitme kayıpları için sunduğumuz çözümlerle hayatın akışından kopmayın</a>
-                            </h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-insioiic">
-                                <img src="/assets/image/products/signia/6insioiic.jpeg" alt="Insio Nx IIC/CIC">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h3 class="card-category text-rose">Insio Nx IIC/CIC</h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-insioiic">Doğal ses kaliteli en küçük işitme cihazı.</a>
-                            </h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
-
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-insioitt">
-                                <img src="/assets/image/products/signia/7insioitt.jpeg" alt="Insio Nx ITC/ITE">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h3 class="card-category text-rose">Insio Nx ITC/ITE</h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-insioitt">Bluetooth özelliğine sahip kulak içi işitme cihazıyla konuşmaları en iyi haliyle kavrama imkanı.</a>
-                            </h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-signiasilk">
-                                <img src="/assets/image/products/signia/8signiasilk.png" alt="Signia Silk X">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h3 class="card-category text-rose">Signia Silk X</h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-signiasilk">Dünyanın en küçük işitme cihazlarından biri olan Silk, cihazlarınızın fark edilmediğini bilmenin güvenini verir. Tüm modeller kulağınıza gizlilikle yerleşir.</a>
-                            </h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-signiaassistans">
-                                <img src="/assets/image/products/signia/9signiaassistans.jpeg" alt="Signia Assistans">
-                            </a>
-                        </div>
-                        <div class="card-body ">
-                            <h3 class="card-category text-rose">Signia Assistans</h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-signiaassistans">Signia App, işitme deneyiminizi daha kişisel ve özel kılmak için ihtiyaç duyduğunuz her şeyi size getiriyor. Tek ihtiyacınız akıllı telefonunuz.</a>
-                            </h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
         </div>
     </div>

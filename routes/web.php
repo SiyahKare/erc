@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('anasayfa');
 });
 
 Route::get('/anasayfa', function () {
@@ -22,7 +22,11 @@ Route::get('/anasayfa', function () {
 });
 
 Route::get('/urunler-signia', function () {
-    return view('urunler');
+    return view('urunler-signia');
+});
+
+Route::get('/urunler-widex', function () {
+    return view('urunler-widex');
 });
 
 Route::get('/urunler-styletto', function () {
