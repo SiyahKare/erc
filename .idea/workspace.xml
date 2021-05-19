@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcd22701-9bbd-458c-b1ff-6853fde5729e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/nav.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/urunler-widex-evoke.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/anasayfa.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/anasayfa.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/urunler-motiongox.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/urunler-motiongox.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/urunler-signia.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/urunler-signia.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/urunler-styletto.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/urunler-styletto.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/urunler-widex.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/urunler-widex.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +174,7 @@
       <workItem from="1621369288957" duration="17000" />
       <workItem from="1621370430087" duration="1755000" />
       <workItem from="1621384399574" duration="1594000" />
-      <workItem from="1621386222037" duration="5181000" />
+      <workItem from="1621386222037" duration="5911000" />
     </task>
     <servers />
   </component>
