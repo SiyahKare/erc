@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="/vendor/frontend/assets/img/apple-icon.png">
-    <link rel="icon" href="/vendor/frontend/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="/assets/image/apple-icon.png">
+    <link rel="icon" href="/assets/image/favicon.png">
     <title>
         ERC İşitme Cihazları - Ürünler - Signia - Styletto X
     </title>

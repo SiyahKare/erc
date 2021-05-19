@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="/vendor/frontend/assets/img/apple-icon.png">
-    <link rel="icon" href="/vendor/frontend/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="/assets/image/apple-icon.png">
+    <link rel="icon" href="/assets/image/favicon.png">
     <title>
         ERC İşitme Cihazları - Ürünler - Signia - Styletto X
     </title>
@@ -110,7 +110,7 @@
 
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <h2 class="title"> Cros X </h2>
+                    <h2 class="title"> Cros Silk X </h2>
                     <h3 class="main-price">O, bir işitme cihazından fazlası.</h3>
                     <div id="accordion" role="tablist">
                         <div class="card card-collapse">
@@ -124,7 +124,7 @@
                             </div>
                             <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
                                 <div class="card-body">
-                                    <p>O, bir işitme cihazından fazlası. Stil sahibi işitme deneyimi. İkonik Styletto X, ödül sahibi tasarımı ve kablosuz şarj özelliklerini kristal netliğinde ses kalitesiyle bütünlüyor.</p>
+                                    <p>CROS Silk X, Silk X’in tüm avantajlarını sunar ve kulakta neredeyse görünmezdir. Esnek silikon Click Sleeve’leri sayesinde, Silk X herhangi bir sorun veya bekleme süresi olmaksızın kusursuz bir uyum sunar.</p>
                                 </div>
                             </div>
                         </div>
@@ -258,57 +258,22 @@
         </div>
     </div>
 </footer>
-<!--   Core JS Files   -->
+
 <script src="/vendor/frontend/assets/js/core/jquery.min.js"></script>
 <script src="/vendor/frontend/assets/js/core/popper.min.js"></script>
 <script src="/vendor/frontend/assets/js/bootstrap-material-design.js"></script>
-<!--  Google Maps Plugin  -->
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
-<!--  Plugin for Date Time Picker and Full Calendar Plugin  -->
 <script src="/vendor/frontend/assets/js/plugins/moment.min.js"></script>
-<!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
 <script src="/vendor/frontend/assets/js/plugins/bootstrap-datetimepicker.min.js"></script>
-<!--	Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
 <script src="/vendor/frontend/assets/js/plugins/nouislider.min.js"></script>
-<!--	Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
 <script src="/vendor/frontend/assets/js/plugins/bootstrap-selectpicker.js"></script>
-<!--	Plugin for Tags, full documentation here: http://xoxco.com/projects/code/tagsinput/  -->
 <script src="/vendor/frontend/assets/js/plugins/bootstrap-tagsinput.js"></script>
-<!--	Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
 <script src="/vendor/frontend/assets/js/plugins/jasny-bootstrap.min.js"></script>
-<!--	Plugin for Small Gallery in Product Page -->
 <script src="/vendor/frontend/assets/js/plugins/jquery.flexisel.js"></script>
-<!-- Plugins for presentation and navigation  -->
 <script src="/vendor/frontend/assets/assets-for-demo/js/modernizr.js"></script>
 <script src="/vendor/frontend/assets/assets-for-demo/js/vertical-nav.js"></script>
-<!-- Material Kit Core initialisations of plugins and Bootstrap Material Design Library -->
 <script src="/vendor/frontend/assets/js/material-kit.js?v=2.0.1"></script>
-<!-- Fixed Sidebar Nav - js With initialisations For Demo Purpose, Don't Include it in your project -->
 <script src="/vendor/frontend/assets/assets-for-demo/js/material-kit-demo.js"></script>
-<script>
-    $(document).ready(function() {
-        $("#flexiselDemo1").flexisel({
-            visibleItems: 4,
-            itemsToScroll: 1,
-            animationSpeed: 400,
-            enableResponsiveBreakpoints: true,
-            responsiveBreakpoints: {
-                portrait: {
-                    changePoint: 480,
-                    visibleItems: 3
-                },
-                landscape: {
-                    changePoint: 640,
-                    visibleItems: 3
-                },
-                tablet: {
-                    changePoint: 768,
-                    visibleItems: 3
-                }
-            }
-        });
-    });
-</script>
 </body>
 
 </html>

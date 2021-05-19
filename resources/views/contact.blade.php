@@ -108,7 +108,7 @@
 <script src="/vendor/frontend/assets/js/core/popper.min.js"></script>
 <script src="/vendor/frontend/assets/js/bootstrap-material-design.js"></script>
 <!--  Google Maps Plugin  -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBpq4oTE9-rag114JHqO7H5x7eAmcLqOs4"></script>
 <!--  Plugin for Date Time Picker and Full Calendar Plugin  -->
 <script src="/vendor/frontend/assets/js/plugins/moment.min.js"></script>
 <!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->

@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="/vendor/frontend/assets/img/apple-icon.png">
-    <link rel="icon" href="/vendor/frontend/assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="/assets/image/apple-icon.png">
+    <link rel="icon" href="/assets/image/favicon.png">
     <title>
         ERC İşitme Cihazları - Ürünler - Signia - Pure Charge&Go X
     </title>
@@ -124,7 +124,7 @@
                             </div>
                             <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
                                 <div class="card-body">
-                                    <p>Hafif, orta şiddetli, ciddi veya derin işitme kaybı, Motion 13 tüm bu zorlukların üstesinden gelir ve hayatın doğal sesini yeniden duymanızı sağlar.</p>
+                                    <p>Pure Charge&Go X, Signia Xperience platformunun tüm avantajlarını Li-ion şarj ve Bluetooth bağlantısı özellikleri ile buluşturur. %20 daha fazla pil kapasitesi ile sağladığı esneklik ve kolaylık sayesinde kullanıcı memnuniyetini arttırır. Müzik, telefon araması ve TV seslerini yüksek ses kalitesiyle işitme cihazlarına aktarabilir. Tüm bu özellikler ve daha fazla inanılmaz küçük tasarımda bir arada.</p>
                                 </div>
                             </div>
                         </div>

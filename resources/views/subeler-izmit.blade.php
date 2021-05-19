@@ -25,20 +25,20 @@
 <div class="main main-raised">
     <div class="contact-content">
         <div class="container">
-            <h2 class="title">Send us a message</h2>
+            <h3 class="title">Bize Ulaşın</h3>
             <div class="row">
                 <div class="col-md-6">
-                    <p class="description">You can contact us with anything related to our Products. We&apos;ll get in touch with you as soon as possible.
+                    <p class="description">Ürünlerimizle ilgili her konuda ve Randevu Talebi için bize ulaşabilirsiniz.
                         <br>
                         <br>
                     </p>
                     <form role="form" id="contact-form" method="post">
                         <div class="form-group">
-                            <label for="name" class="bmd-label-floating">Your name</label>
+                            <label for="name" class="bmd-label-floating">İsminiz</label>
                             <input type="text" class="form-control" id="name">
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputEmails" class="bmd-label-floating">Email address</label>
+                            <label for="exampleInputEmails" class="bmd-label-floating">Email adresiniz</label>
                             <input type="email" class="form-control" id="exampleInputEmails">
                             <span class="bmd-help">We'll never share your email with anyone else.</span>
                         </div>
@@ -47,11 +47,11 @@
                             <input type="text" class="form-control" id="phone">
                         </div>
                         <div class="form-group label-floating">
-                            <label class="form-control-label bmd-label-floating" for="message"> Your message</label>
+                            <label class="form-control-label bmd-label-floating" for="message"> Mesajınız</label>
                             <textarea class="form-control" rows="6" id="message"></textarea>
                         </div>
                         <div class="submit text-center">
-                            <input type="submit" class="btn btn-primary btn-raised btn-round" value="Contact Us">
+                            <input type="submit" class="btn btn-primary btn-raised btn-round" value="Gönder">
                         </div>
                     </form>
                 </div>
@@ -61,10 +61,10 @@
                             <i class="material-icons">pin_drop</i>
                         </div>
                         <div class="description">
-                            <h4 class="info-title">Find us at the office</h4>
-                            <p> Bld Mihail Kogalniceanu, nr. 8,
-                                <br> 7652 Bucharest,
-                                <br> Romania
+                            <h4 class="info-title">İzmit Merkez</h4>
+                            <p> Alemdar Cad. Beyaz Han Is Merkezi
+                                <br> (4 Yol Ziraat Bank. Üstü),
+                                <br> No:21 Kat:2 İzmit/KOCAELI
                             </p>
                         </div>
                     </div>
@@ -73,10 +73,10 @@
                             <i class="material-icons">phone</i>
                         </div>
                         <div class="description">
-                            <h4 class="info-title">Give us a ring</h4>
-                            <p> Michael Jordan
-                                <br> +40 762 321 762
-                                <br> Mon - Fri, 8:00-22:00
+                            <h4 class="info-title">Telefon</h4>
+                            <p> (262) 322 8164 - (262) 322 8166
+                                <br> GSM : +90 535 047 07 05
+                                <br> Faks : +90 262 322 8136
                             </p>
                         </div>
                     </div>
@@ -98,37 +98,22 @@
         </div>
     </div>
 </div>
-
-
 @include('partials.footer')
-
-
 <!--   Core JS Files   -->
 <script src="/vendor/frontend/assets/js/core/jquery.min.js"></script>
 <script src="/vendor/frontend/assets/js/core/popper.min.js"></script>
-<script src="/vendor/frontend/assets/js/bootstrap-material-design.js"></script>
-<!--  Google Maps Plugin  -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
-<!--  Plugin for Date Time Picker and Full Calendar Plugin  -->
+<script src="/vendor/frontend/assets/js/bootstrap-material-design.min.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBpq4oTE9-rag114JHqO7H5x7eAmcLqOs4"></script>
 <script src="/vendor/frontend/assets/js/plugins/moment.min.js"></script>
-<!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
 <script src="/vendor/frontend/assets/js/plugins/bootstrap-datetimepicker.min.js"></script>
-<!--	Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
 <script src="/vendor/frontend/assets/js/plugins/nouislider.min.js"></script>
-<!--	Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
 <script src="/vendor/frontend/assets/js/plugins/bootstrap-selectpicker.js"></script>
-<!--	Plugin for Tags, full documentation here: http://xoxco.com/projects/code/tagsinput/  -->
 <script src="/vendor/frontend/assets/js/plugins/bootstrap-tagsinput.js"></script>
-<!--	Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
 <script src="/vendor/frontend/assets/js/plugins/jasny-bootstrap.min.js"></script>
-<!--	Plugin for Small Gallery in Product Page -->
 <script src="/vendor/frontend/assets/js/plugins/jquery.flexisel.js"></script>
-<!-- Plugins for presentation and navigation  -->
-<script src=/vendor/frontend/assets/assets-for-demo/js/modernizr.js"></script>
+<script src="/vendor/frontend/assets/assets-for-demo/js/modernizr.js"></script>
 <script src="/vendor/frontend/assets/assets-for-demo/js/vertical-nav.js"></script>
-<!-- Material Kit Core initialisations of plugins and Bootstrap Material Design Library -->
 <script src="/vendor/frontend/assets/js/material-kit.js?v=2.0.1"></script>
-<!-- Fixed Sidebar Nav - js With initialisations For Demo Purpose, Don't Include it in your project -->
 <script src="/vendor/frontend/assets/assets-for-demo/js/material-kit-demo.js"></script>
 <script>
     $().ready(function() {
