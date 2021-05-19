@@ -2,20 +2,17 @@
 
 use Illuminate\Support\Facades\Route;
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
-*/
-
 Route::get('/', function () { return view('anasayfa'); });
-
 Route::get('/anasayfa', function () { return view('anasayfa'); });
+
+Route::get('/urunler-signia', function () { return view('urunler-signia'); });
+Route::get('/urunler-styletto', function () { return view('urunler-styletto'); });
+
+Route::get('/urunler-widex', function () { return view('urunler-widex'); });
+
+
+
+
 
 Route::get('/iletisim', function () { return view('contact'); });
 
@@ -26,11 +23,11 @@ Route::get('/subeler-sakarya', function () { return view('subeler-sakarya'); });
 Route::get('/erc-tv', function () { return view('erctv'); });
 
 Route::get('/hakkimizda', function () { return view('hakkimizda'); });
-Route::get('/urunler-signia', function () { return view('urunler-signia'); });
 
-Route::get('/urunler-widex', function () { return view('urunler-widex'); });
 
-Route::get('/urunler-styletto', function () { return view('urunler-styletto'); });
+
+
+
 Route::get('/urunler-motiongox', function () { return view('urunler-motiongox'); });
 
 Route::get('/urunler-purecharge', function () { return view('urunler-purecharge'); });
