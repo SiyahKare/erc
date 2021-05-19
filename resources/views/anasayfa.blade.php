@@ -9,94 +9,17 @@
     <link rel="apple-touch-icon" href="/vendor/frontend/assets/img/apple-icon.png">
     <link rel="icon" href="/vendor/frontend/assets/img/favicon.png">
     <title>
-        ERC İşitme
+        ERC İşitme Cihazları Merkezi - İzmit - Kocaeli
     </title>
-    <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
     <link rel="stylesheet" href="/vendor/frontend/assets/css/material-kit.css?v=2.0.1">
-    <!-- Documentation extras -->
-    <!-- CSS Just for demo purpose, don't include it in your project -->
     <link href="/vendor/frontend/assets/assets-for-demo/demo.css" rel="stylesheet" />
     <link href="/vendor/frontend/assets/assets-for-demo/vertical-nav.css" rel="stylesheet" />
 </head>
 <body class="landing-page ">
-<nav class="navbar navbar-inverse navbar-expand-lg fixed-top bg-dark" id="sectionsNav">
-<!--
-<nav class="navbar navbar-color-on-scroll navbar-transparent    fixed-top  navbar-expand-lg " color-on-scroll="100" id="sectionsNav">
-    -->
-    <div class="container">
-        <div class="navbar-translate">
-            <a class="navbar-brand" href="/"><img height="40px" src="/assets/image/logo.png" /></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-                <span class="navbar-toggler-icon"></span>
-                <span class="navbar-toggler-icon"></span>
-            </button>
-        </div>
 
-        <div class="collapse navbar-collapse">
-            <ul class="navbar-nav ml-auto">
-                <li class="dropdown nav-item">
-                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">earbuds</i> ÜRÜNLER
-                    </a>
-                    <div class="dropdown-menu dropdown-with-icons">
-                        <a href="/urunler-signia" class="dropdown-item">
-                            <i class="material-icons">earbuds</i> SIGNIA
-                        </a>
-                        <a href="/urunler-widex" class="dropdown-item">
-                            <i class="material-icons">earbuds</i> WIDEX
-                        </a>
-                        <a href="/" class="dropdown-item">
-                            <i class="material-icons">earbuds</i> Temizlik ve Bakım
-                        </a>
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">earbuds</i> Piller
-                        </a>
-                    </div>
-                </li>
-
-                <li class="dropdown nav-item">
-                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">place</i> ŞUBELERİMİZ
-                    </a>
-                    <div class="dropdown-menu dropdown-with-icons">
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> İzmit Merkez
-                        </a>
-                        <a href="/" class="dropdown-item">
-                            <i class="material-icons">layers</i> İzmit +Plus
-                        </a>
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> Derince
-                        </a>
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> Sakarya
-                        </a>
-                    </div>
-                </li>
-
-                <li class="dropdown nav-item">
-                    <a href="#" class=" nav-link" data-toggle="dropdown">
-                        <i class="material-icons">slideshow</i> ERC TV
-                    </a>
-                </li>
-                <li class="dropdown nav-item">
-                    <a href="#" class=" nav-link" data-toggle="dropdown">
-                        <i class="material-icons">help_center</i> Hakkımızda
-                    </a>
-                </li>
-                <li class="button-container nav-item">
-                    <a href="https://api.whatsapp.com/send?phone=+905350470705&text=Merhaba,%20bilgi%20istiyorum" class="btn  btn-success btn-round btn-block">
-                        <i class="fa fa-whatsapp"></i> İLETİŞİM
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
-
+@include('partials.nav')
 
 <div class="header-3">
     <!-- Carousel Card -->
@@ -202,10 +125,6 @@
             </div>
         </div>
 
-
-
-
-
         <div class="section text-center">
             <h2 class="title">ŞUBELERİMİZ</h2>
             <div class="team">
@@ -308,10 +227,6 @@
         </div>
 
 
-
-
-
-
         <div class="section section-contacts">
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto">
@@ -348,92 +263,9 @@
         </div>
     </div>
 
-
-    <footer class="footer footer-black footer-big">
-        <div class="container">
-            <div class="content">
-                <div class="row">
-                    <div class="col-md-4">
-                        <h5>Hakkımızda</h5>
-                        <p>Hizmet alanlarımız içerisinde , işitme testleri, işitme cihazı ve aksesuarları satışı, kulak kalıbı, işitme cihazı tamir, bakım, montaj ve servis hizmetleri bulunmaktadır.  </p>
-                        <p>7/24 telefonlar ile bilgi iletişimi sağlanmaktadır. Özellikle yaşlı hastalara evde uygulama ve bakım hizmeti verilmektedir. En kısa zamanda sizi merkezimize tanışmaya bekliyoruz. </p>
-                    </div>
-                    <div class="col-md-4">
-                        <h5>Şubelerimiz</h5>
-                        <div class="social-feed">
-                            <div class="feed-line">
-                                <i class="fa fa-globe"></i>
-                                <p><strong>MERKEZ ŞUBE</strong> Alemdar Cad. Beyaz Han Is Merkezi (4 Yol Ziraat Bank. Üstü) No:21 Kat:2 Izmit/KOCAELI</p>
-                            </div>
-                            <div class="feed-line">
-                                <i class="fa fa-globe"></i>
-                                <p><strong>+ PLUS ŞUBE</strong> Cedit Mahallesi Bostanlar Sokak No:10 Kat:1 D:2 (Kocaeli Devlet Hastanesi çaprazı) Izmit/KOCAELI</p>
-                            </div>
-                            <div class="feed-line">
-                                <i class="fa fa-globe"></i>
-                                <p><strong>DERİNCE ŞUBE</strong> İbnisina Mah. Okul Sok. No:2 C (Poliklinik kapısı çaprazı), Derince/Kocaeli</p>
-                            </div>
-                            <div class="feed-line">
-                                <i class="fa fa-globe"></i>
-                                <p><strong>SAKARYA ŞUBE</strong> ERC ÇARK İşitme Cihazları Arabacı Alanı Mah. Şehit Ast. Ali Kaya Sok. No:7, Serdivan/Sakarya</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <h5>ÜRÜNLER</h5>
-                        <div class="gallery-feed">
-                            <img src="/assets/image/signia/1styletto.png" class="img img-raised rounded" alt="">
-                            <img src="/assets/image/signia/2motiongox.png" class="img img-raised rounded" alt="">
-                            <img src="/assets/image/signia/3purecharge.png" class="img img-raised rounded" alt="">
-                            <img src="/assets/image/signia/4pure312x.png" class="img img-raised rounded" alt="">
-                            <img src="/assets/image/signia/5cros.jpeg" class="img img-raised rounded" alt="">
-                            <img src="/assets/image/signia/6insioiic.jpeg" class="img img-raised rounded" alt="">
-                            <img src="/assets/image/signia/7insioitt.jpeg" class="img img-raised rounded" alt="">
-                            <img src="/assets/image/signia/8signiasilk.png" class="img img-raised rounded" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <hr>
-            <ul class="float-left">
-                <li>
-                    <a href="#pablo">
-                        Anasayfa
-                    </a>
-                </li>
-                <li>
-                    <a href="#pablo">
-                        Ürünler
-                    </a>
-                </li>
-                <li>
-                    <a href="#pablo">
-                        ŞUBELER
-                    </a>
-                </li>
-                <li>
-                    <a href="#pablo">
-                        ERC TV
-                    </a>
-                </li>
-                <li>
-                    <a href="#pablo">
-                        HAKKIMIZDA
-                    </a>
-                </li>
-            </ul>
-            <div class="copyright float-right">
-                Copyright &#xA9;
-                <script>
-                    document.write(new Date().getFullYear())
-                </script> SiyahKare
-            </div>
-        </div>
-    </footer>
+    @include('partials.footer')
 
 </div>
-
-
 
 <!--   Core JS Files   -->
 <script src="/vendor/frontend/assets/js/core/jquery.min.js"></script>

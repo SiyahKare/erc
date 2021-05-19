@@ -9,7 +9,7 @@
     <link rel="apple-touch-icon" href="/vendor/frontend/assets/img/apple-icon.png">
     <link rel="icon" href="/vendor/frontend/assets/img/favicon.png">
     <title>
-        ERC İşitme Cihazları
+        ERC İşitme Cihazları - Ürünler - Widex - Evoke
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
@@ -21,86 +21,93 @@
     <link href="/vendor/frontend/assets/assets-for-demo/vertical-nav.css" rel="stylesheet" />
 </head>
 
-<body class="ecommerce ">
+<body class="product-page ">
 
 @include('partials.nav')
 
-<div class="page-header header-small" data-parallax="true" style="background-image: url(&apos;/assets/image/widex-header.png&apos;);">
+<div class="page-header header-filter" data-parallax="true" filter-color="red" style="background-image: url(&apos;/vendor/frontend/assets/img/bg2.jpg&apos;);">
+
+</div>
+<div class="section section-gray">
     <div class="container">
-        <div class="row">
-            <div class="col-md-8 ml-auto mr-auto text-center">
-
-            </div>
-        </div>
-    </div>
-</div>
-<div class="main main-raised">
-    <div class="section">
-        <div class="container">
-            <h2 class="section-title">Ürünler</h2>
-
+        <div class="main main-raised main-product">
             <div class="row">
-                <!-- CARD-1 -->
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-widex-evoke">
-                                <img src="/assets/image/products/widex/evoke.jpeg" alt="Widex EVOKE™">
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h3 class="card-category text-rose">Widex EVOKE™</h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-widex-evoke">EVOKE işitme cihazı, akıllı bir cihazdan beklediğiniz gibi her kullandığınızda evrimleşir. </a>
-                            </h5>
+                <div class="col-md-6 col-sm-6">
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="product-page1">
+                            <img src="/assets/image/products/signia/2motiongox.png" />
                         </div>
                     </div>
-                </div>
-                <!-- // CARD-1 -->
 
-                <!-- CARD-2 -->
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-widex-beyondz">
-                                <img src="/assets/image/products/widex/beyondz.png" alt="WIDEX BEYOND Z™">
-                            </a>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <h2 class="title"> Motion Charge&Go X </h2>
+                    <h3 class="main-price">Özel Tasarlanmış Bir İşitme Deneyimi.</h3>
+                    <div id="accordion" role="tablist">
+                        <div class="card card-collapse">
+                            <div class="card-header" role="tab" id="headingOne">
+                                <h5 class="mb-0">
+                                    <a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        Açıklama
+                                        <i class="material-icons">keyboard_arrow_down</i>
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                                <div class="card-body">
+                                    <p>Hafif, orta şiddetli, ciddi veya derin işitme kaybı, Motion 13 tüm bu zorlukların üstesinden gelir ve hayatın doğal sesini yeniden duymanızı sağlar.</p>
+                                </div>
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <h3 class="card-category text-rose">WIDEX BEYOND Z™</h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-widex-beyondz">EN İYİ SESLENDİRMEYE SAHİP ŞARJ EDİLEBİLİR İŞİTME CİHAZI </a>
-                            </h5>
+                        <div class="card card-collapse">
+                            <div class="card-header" role="tab" id="headingTwo">
+                                <h5 class="mb-0">
+                                    <a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Teknik Özellikler
+                                        <i class="material-icons">keyboard_arrow_down</i>
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li>Gün Boyu En iyi Ses Kalitesi</li>
+                                        <li>Bluetooth Bağlantısı</li>
+                                        <li>Telefon araması/Ses aktarımı için akıllı telefonlara doğrudan bağlantı.</li>
+                                        <li>Signia App ile Uzaktan Kontrol</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <!-- // CARD-2 -->
 
-                <!-- CARD-3 -->
-                <div class="col-md-4">
-                    <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-widex-unique">
-                                <img src="/assets/image/products/widex/unique.png" alt="WIDEX UNIQUE">
-                            </a>
-                        </div>
-                        <div class="card-body ">
-                            <h3 class="card-category text-rose">WIDEX UNIQUE </h3>
-                            <h5 class="card-title">
-                                <a href="/urunler-widex-unique">"İŞİTMEDE YENI UFUKLAR"</a>
-                            </h5>
-                        </div>
-                    </div>
                 </div>
-                <!-- // CARD-3 -->
             </div>
-
-
-
         </div>
+        <div class="features text-center">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="info">
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="info">
+                        <img src="/assets/image/sgk-logo.png" />
+                        <h4 class="info-title">İLE ANLAŞMALI KURUM</h4>
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="info">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
-<!-- end-main-raised -->
 <footer class="footer footer-black footer-big">
     <div class="container">
         <div class="content">
@@ -134,14 +141,14 @@
                 <div class="col-md-4">
                     <h5>ÜRÜNLER</h5>
                     <div class="gallery-feed">
-                        <img src="/assets/image/products/signia/1styletto.png" class="img img-raised rounded" alt="">
-                        <img src="/assets/image/products/signia/2motiongox.png" class="img img-raised rounded" alt="">
-                        <img src="/assets/image/products/signia/3purecharge.png" class="img img-raised rounded" alt="">
-                        <img src="/assets/image/products/signia/4pure312x.png" class="img img-raised rounded" alt="">
-                        <img src="/assets/image/products/signia/5cros.jpeg" class="img img-raised rounded" alt="">
-                        <img src="/assets/image/products/signia/6insioiic.jpeg" class="img img-raised rounded" alt="">
-                        <img src="/assets/image/products/signia/7insioitt.jpeg" class="img img-raised rounded" alt="">
-                        <img src="/assets/image/products/signia/8signiasilk.png" class="img img-raised rounded" alt="">
+                        <img src="/assets/image/signia/1styletto.png" class="img img-raised rounded" alt="">
+                        <img src="/assets/image/signia/2motiongox.png" class="img img-raised rounded" alt="">
+                        <img src="/assets/image/signia/3purecharge.png" class="img img-raised rounded" alt="">
+                        <img src="/assets/image/signia/4pure312x.png" class="img img-raised rounded" alt="">
+                        <img src="/assets/image/signia/5cros.jpeg" class="img img-raised rounded" alt="">
+                        <img src="/assets/image/signia/6insioiic.jpeg" class="img img-raised rounded" alt="">
+                        <img src="/assets/image/signia/7insioitt.jpeg" class="img img-raised rounded" alt="">
+                        <img src="/assets/image/signia/8signiasilk.png" class="img img-raised rounded" alt="">
                     </div>
                 </div>
             </div>
@@ -211,26 +218,24 @@
 <script src="/vendor/frontend/assets/assets-for-demo/js/material-kit-demo.js"></script>
 <script>
     $(document).ready(function() {
-
-        var slider2 = document.getElementById('sliderRefine');
-
-        noUiSlider.create(slider2, {
-            start: [101, 790],
-            connect: true,
-            range: {
-                'min': [30],
-                'max': [900]
-            }
-        });
-
-        var limitFieldMin = document.getElementById('price-left');
-        var limitFieldMax = document.getElementById('price-right');
-
-        slider2.noUiSlider.on('update', function(values, handle) {
-            if (handle) {
-                limitFieldMax.innerHTML = $('#price-right').data('currency') + Math.round(values[handle]);
-            } else {
-                limitFieldMin.innerHTML = $('#price-left').data('currency') + Math.round(values[handle]);
+        $("#flexiselDemo1").flexisel({
+            visibleItems: 4,
+            itemsToScroll: 1,
+            animationSpeed: 400,
+            enableResponsiveBreakpoints: true,
+            responsiveBreakpoints: {
+                portrait: {
+                    changePoint: 480,
+                    visibleItems: 3
+                },
+                landscape: {
+                    changePoint: 640,
+                    visibleItems: 3
+                },
+                tablet: {
+                    changePoint: 768,
+                    visibleItems: 3
+                }
             }
         });
     });

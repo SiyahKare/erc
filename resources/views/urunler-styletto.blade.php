@@ -22,78 +22,9 @@
 </head>
 
 <body class="product-page ">
-<nav class="navbar navbar-inverse navbar-expand-lg fixed-top bg-dark" id="sectionsNav">
-    <!--
-    <nav class="navbar navbar-color-on-scroll navbar-transparent    fixed-top  navbar-expand-lg " color-on-scroll="100" id="sectionsNav">
-        -->
-    <div class="container">
-        <div class="navbar-translate">
-            <a class="navbar-brand" href="/"><img height="40px" src="/vendor/frontend/assets/image/logo.png" /></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-                <span class="navbar-toggler-icon"></span>
-                <span class="navbar-toggler-icon"></span>
-            </button>
-        </div>
 
-        <div class="collapse navbar-collapse">
-            <ul class="navbar-nav ml-auto">
-                <li class="dropdown nav-item">
-                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">earbuds</i> ÜRÜNLER
-                    </a>
-                    <div class="dropdown-menu dropdown-with-icons">
-                        <a href="/urunler-signia" class="dropdown-item">
-                            <i class="material-icons">layers</i> SIGNIA
-                        </a>
-                        <a href="/" class="dropdown-item">
-                            <i class="material-icons">layers</i> Temizlik ve Bakım
-                        </a>
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> Piller
-                        </a>
-                    </div>
-                </li>
+@include('partials.nav')
 
-                <li class="dropdown nav-item">
-                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">place</i> ŞUBELERİMİZ
-                    </a>
-                    <div class="dropdown-menu dropdown-with-icons">
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> İzmit Merkez
-                        </a>
-                        <a href="/" class="dropdown-item">
-                            <i class="material-icons">layers</i> İzmit +Plus
-                        </a>
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> Derince
-                        </a>
-                        <a href="/urunler/siemens" class="dropdown-item">
-                            <i class="material-icons">layers</i> Sakarya
-                        </a>
-                    </div>
-                </li>
-
-                <li class="dropdown nav-item">
-                    <a href="#" class=" nav-link" data-toggle="dropdown">
-                        <i class="material-icons">slideshow</i> ERC TV
-                    </a>
-                </li>
-                <li class="dropdown nav-item">
-                    <a href="#" class=" nav-link" data-toggle="dropdown">
-                        <i class="material-icons">help_center</i> Hakkımızda
-                    </a>
-                </li>
-                <li class="button-container nav-item">
-                    <a href="https://api.whatsapp.com/send?phone=+905350470705&text=Merhaba,%20bilgi%20istiyorum" class="btn  btn-success btn-round btn-block">
-                        <i class="fa fa-whatsapp"></i> İLETİŞİM
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
 <div class="page-header header-filter" data-parallax="true" filter-color="red" style="background-image: url(&apos;/vendor/frontend/assets/img/bg2.jpg&apos;);">
 
 </div>
