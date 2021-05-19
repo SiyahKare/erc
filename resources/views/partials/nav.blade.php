@@ -51,13 +51,13 @@
                     </div>
                 </li>
 
-                <li class="dropdown nav-item">
-                    <a href="/erc-tv" class=" nav-link" data-toggle="dropdown">
+                <li class="nav-item">
+                    <a href="/erc-tv" class=" nav-link">
                         <i class="material-icons">slideshow</i> ERC TV
                     </a>
                 </li>
-                <li class="dropdown nav-item">
-                    <a href="/Hakkimizda" class=" nav-link" data-toggle="dropdown">
+                <li class="nav-item">
+                    <a href="/hakkimizda" class=" nav-link">
                         <i class="material-icons">help_center</i> Hakkımızda
                     </a>
                 </li>

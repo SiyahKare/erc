@@ -88,8 +88,45 @@
         <div class="section text-center">
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto">
-                    <h2 class="title">ERC İşitme Cihazları</h2>
-                    <h5 class="description">Hizmet alanlarımız içerisinde , işitme testleri, işitme cihazı ve aksesuarları satışı, kulak kalıbı, işitme cihazı tamir, bakım, montaj ve servis hizmetleri bulunmaktadır. 7/24 telefonlar ile bilgi iletişimi sağlanmaktadır. Özellikle yaşlı hastalara evde uygulama ve bakım hizmeti verilmektedir. En kısa zamanda sizi merkezimize tanışmaya bekliyoruz.</h5>
+                    <h2 class="title">ERC İşitme Cihazları</h2><br />
+                    <h3>Hakkımızda</h3>
+                    <h5 class="description"> <strong>BİZ KİMİZ</strong></h5>
+                    <p> 2004 yılında <strong>SKYMED</strong> olarak kurulan şirketimiz <strong>DUYMAYAN KALMASIN</strong> sloganı ile çıkmış olup bir çok işitme cihazı merkezine ilham vermiştir.<br />
+                        2007 senesinde Ramazan Ellialtı ortaklığı ile <strong>FREKANS</strong> ismi ile hizmetine devam etmiştir. 2009 yılında şirkette Kocaeli bölge müdürü olarak çalışan Taha Yasin Erciyes tarafından devir alınıp ERC İŞİTME olarak daha genç,daha profosyonel bir kadro ile faaliyetlerine devam etmektedir.<br />
+                        Hizmet alanlarımız içerisinde , işitme testleri, işitme cihazı ve aksesuarları satışı, kulak kalıbı, işitme cihazı tamir, bakım, montaj ve servis hizmetleri bulunmaktadır.<br />
+                        7/24 telefonlar ile bilgi iletişimi sağlanmaktadır.<br />
+                        Özellikle yaşlı hastalara evde uygulama ve bakım hizmeti verilmektedir.<br />
+                        En kısa zamanda sizi merkezimize tanışmaya bekliyoruz.</p>
+                    <p>
+
+                        <strong>Neden ERC İşitme?</strong><br />
+                        1-)Dünyanın en iyi işitme cihazlarından biri olan Siemens Audio Service markasının Kocaeli tek yetkili satıcısıyız.
+
+                        <br />2-)Audio Service 30 yılı aşkın süredir Almanya’nın Herford şehrinde işitme cihazı geliştirmektedir. Asıl uzmanlık alanı kanal içi işitme cihazları olan AudioService; kulak arkası, RIC işitme cihazları, kulak kalıpları ve aksesuarları konusunda da geniş bir ürün yelpazesi sunmaktadır.
+
+                        <br />3-)Audio Service'in araştırma, geliştirme ve üretim uzmanları daha da iyi işitme deneyimini artırabilmek için sürekli çalışmaktadır. Kullanıcıların memnuniyeti ve bireysel ihtiyaçları bu süreçte büyük önem taşımaktadır. Uzun yıllardır sahip oldukları DIN EN ISO 13485 TÜV SÜD sertifikası Audio Service'in bu değerlere önem verdiğini doğrulamaktadır.
+
+                        <br />4-)Audio Service sadece Almanya’da değil, tüm dünyada 40’dan fazla ülkede faaliyet göstermektedir..
+
+                        <br />5-)İşitme cihazı uygulamalarını REM (Gerçek Kulak Ölçümü) ile yapıyoruz.Bu sayede size en uygun cihazı,en doğru ayarda yapıp yapmadığımızı dijital ortamda rahatlıkla görebiliyoruz.
+
+                        <br />6-)İşitme cihazı kullanımında,satıştan sonra da sizlere tüm güleryüz,samimiyet ve özverimizle yardımcı oluyoruz.
+
+                        <br />7-)Önceliğimiz her zaman müşteri memnuniyeti olduğundan her hastamızı memnun etmeye çalışıyoruz.ERC'den güleryüzle ayrılan her hasta bizi işimize daha motive ederken,işimizi ne kadar doğru yaptığımızı görüp bizi daha fazla mutlu ediyor.
+
+                        <br />8-)Hastalarımızı periyodik olarak kontrol edip,hem tekrardan test yapıyoruz hem de gerektiği takdirde tekrardan ayar yapıyoruz.Böylelikle kullanım daha keyifli ve sağlıklı bir hal alıyor.
+
+                        <br />9-)Genç,dinamik ve teknolojiyi yakından takip eden bir ekibiz dolayısıyla herhangi bir teknolojik gelişmeyi yakından takip ediyoruz ve gerektiğinde hastalarımızı bilgilendirip,uyguluyoruz.
+
+                        <br />10-)Yüzümüzdeki gülümseme satıştan önce olduğu kadar satıştan sonra da aynı yerinde olacak.
+
+                        <br />Referansımız hastalarımızdır.
+
+
+                        <br /><strong>ERC İŞİTME CİHAZLARI SATIŞ VE UYGULAMA MERKEZİ.</strong>
+
+                    </p>
+
                 </div>
             </div>
             <div class="features">

@@ -46,30 +46,23 @@
         <hr>
         <ul class="float-left">
             <li>
-                <a href="#pablo">
-                    Anasayfa
+                <a href="/">
+                    ANASAYFA
                 </a>
             </li>
+
             <li>
-                <a href="#pablo">
-                    Ürünler
-                </a>
-            </li>
-            <li>
-                <a href="#pablo">
-                    ŞUBELER
-                </a>
-            </li>
-            <li>
-                <a href="#pablo">
-                    ERC TV
-                </a>
-            </li>
-            <li>
-                <a href="#pablo">
+                <a href="/hakkimizda">
                     HAKKIMIZDA
                 </a>
             </li>
+
+            <li>
+                <a href="/erc-tv">
+                    ERC TV
+                </a>
+            </li>
+
         </ul>
         <div class="copyright float-right">
             Copyright &#xA9;
