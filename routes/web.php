@@ -26,7 +26,7 @@ Route::get('/urunler-widex-unique', function () { return view('urunler-widex-uni
 Route::get('/iletisim', function () { return view('contact'); });
 
 Route::get('/subeler-izmit', function () { return view('subeler-izmit'); });
-Route::get('/subeler-izmit-plus', function () { return view('subeler-izmit-plus'); });
+Route::get('/subeler-izmit-plus', function () { return view('subeler-plus'); });
 Route::get('/subeler-derince', function () { return view('subeler-derince'); });
 Route::get('/subeler-sakarya', function () { return view('subeler-sakarya'); });
 

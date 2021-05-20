@@ -61,10 +61,10 @@
                             <i class="material-icons">pin_drop</i>
                         </div>
                         <div class="description">
-                            <h4 class="info-title">İzmit Merkez</h4>
-                            <p> Alemdar Cad. Beyaz Han Is Merkezi
-                                <br> (4 Yol Ziraat Bank. Üstü),
-                                <br> No:21 Kat:2 İzmit/KOCAELI
+                            <h4 class="info-title">Sakarya</h4>
+                            <p> ERC ÇARK İşitme Cihazları Arabacı Alanı Mah.
+                                <br> Şehit Ast. Ali Kaya Sok. No:7,
+                                <br> Serdivan/Sakarya
                             </p>
                         </div>
                     </div>
@@ -74,25 +74,26 @@
                         </div>
                         <div class="description">
                             <h4 class="info-title">Telefon</h4>
-                            <p> (262) 322 8164 - (262) 322 8166
-                                <br> GSM : +90 535 047 07 05
-                                <br> Faks : +90 262 322 8136
+                            <p> 0(264) 777 1677
+                                <br> +90 555 086 1677
+
                             </p>
                         </div>
                     </div>
+                    <!--
                     <div class="info info-horizontal">
                         <div class="icon icon-primary">
                             <i class="material-icons">business_center</i>
                         </div>
                         <div class="description">
-                            <h4 class="info-title">Şirket Bilgileri</h4>
-                            <p> ERC İşitme 
+                            <h4 class="info-title">Legal Information</h4>
+                            <p> Creative Tim Ltd.
                                 <br> VAT &#xB7; EN2341241
                                 <br> IBAN &#xB7; EN8732ENGB2300099123
                                 <br> Bank &#xB7; Great Britain Bank
                             </p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -117,8 +118,21 @@
 <script src="/vendor/frontend/assets/assets-for-demo/js/material-kit-demo.js"></script>
 <script>
     $().ready(function() {
-        // the body of this function is in assets/material-kit.js
-        materialKitDemo.initContactUsMap();
+        var myLatlng = new google.maps.LatLng(40.766178, 29.937746);
+        var mapOptions = {
+            zoom: 15,
+            center: myLatlng,
+            styles:
+                [{"featureType":"water","stylers":[{"saturation":43},{"lightness":-11},{"hue":"#0088ff"}]},{"featureType":"road","elementType":"geometry.fill","stylers":[{"hue":"#ff0000"},{"saturation":-100},{"lightness":99}]},{"featureType":"road","elementType":"geometry.stroke","stylers":[{"color":"#808080"},{"lightness":54}]},{"featureType":"landscape.man_made","elementType":"geometry.fill","stylers":[{"color":"#ece2d9"}]},{"featureType":"poi.park","elementType":"geometry.fill","stylers":[{"color":"#ccdca1"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#767676"}]},{"featureType":"road","elementType":"labels.text.stroke","stylers":[{"color":"#ffffff"}]},{"featureType":"poi","stylers":[{"visibility":"off"}]},{"featureType":"landscape.natural","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#b8cb93"}]},{"featureType":"poi.park","stylers":[{"visibility":"on"}]},{"featureType":"poi.sports_complex","stylers":[{"visibility":"on"}]},{"featureType":"poi.medical","stylers":[{"visibility":"on"}]},{"featureType":"poi.business","stylers":[{"visibility":"simplified"}]}],
+            scrollwheel: false, //we disable de scroll over the map, it is a really annoing when you scroll through page
+        };
+        var map = new google.maps.Map(document.getElementById("contactUsMap"), mapOptions);
+
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            title:"Hello World!"
+        });
+        marker.setMap(map);
     });
 </script>
 </body>

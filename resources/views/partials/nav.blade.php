@@ -39,7 +39,7 @@
                         <a href="/subeler-izmit" class="dropdown-item">
                             <i class="material-icons">layers</i> İzmit Merkez
                         </a>
-                        <a href="/subeler-plus" class="dropdown-item">
+                        <a href="/subeler-izmit-plus" class="dropdown-item">
                             <i class="material-icons">layers</i> İzmit +Plus
                         </a>
                         <a href="/subeler-derince" class="dropdown-item">

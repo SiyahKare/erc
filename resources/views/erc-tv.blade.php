@@ -38,7 +38,6 @@
     <div class="section">
         <div class="container">
 
-
             <div class="section text-center">
                 <h2 class="title">ERC TV</h2>
                 <div class="team">
@@ -47,13 +46,13 @@
                             <div class="card card-blog">
                                 <div class="card-header card-header-image">
                                     <div class="embed-responsive embed-responsive-16by9">
-                                        <iframe src="https://player.vimeo.com/video/539136756?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-Merkez"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                        <iframe src="https://player.vimeo.com/video/552669994?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-Merkez"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <h3 class="card-category text-rose">İzmit Merkez</h3>
+                                    <h3 class="card-category text-rose">Ürün Videosu</h3>
                                     <h5 class="card-title">
-                                        Alemdar Cad. Beyaz Han Is Merkezi (4 Yol Ziraat Bank. Üstü) No:21 Kat:2 İzmit/KOCAELİ
+
                                     </h5>
                                 </div>
                             </div>
@@ -62,30 +61,31 @@
                             <div class="card card-blog">
                                 <div class="card-header card-header-image">
                                     <div class="embed-responsive embed-responsive-16by9">
-                                        <iframe src="https://player.vimeo.com/video/539134637?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-İzmitPlus"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                        <iframe src="https://player.vimeo.com/video/552669383?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-İzmitPlus"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <h3 class="card-category text-rose">İzmit Plus</h3>
+                                    <h3 class="card-category text-rose">Styletto X</h3>
                                     <h5 class="card-title">
-                                        Cedit Mahallesi Bostanlar Sokak No:10 Kat:1 D:2 (Kocaeli Devlet Hastanesi Çaprazı) İzmit/KOCAELİ
+
                                     </h5>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="row">
                         <div class="col-md-6">
                             <div class="card card-blog">
                                 <div class="card-header card-header-image">
                                     <div class="embed-responsive embed-responsive-16by9">
-                                        <iframe src="https://player.vimeo.com/video/539132291?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-Merkez"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                        <iframe src="https://player.vimeo.com/video/552668735?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-Merkez"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <h3 class="card-category text-rose">Derince</h3>
+                                    <h3 class="card-category text-rose"></h3>
                                     <h5 class="card-title">
-                                        İbnisina Mah. Okul Sok. No:2 C (Poliklinik kapısı çaprazı), Derince/Kocaeli
+
                                     </h5>
                                 </div>
                             </div>
@@ -94,18 +94,104 @@
                             <div class="card card-blog">
                                 <div class="card-header card-header-image">
                                     <div class="embed-responsive embed-responsive-16by9">
-                                        <iframe src="https://player.vimeo.com/video/539138593?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-İzmitPlus"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                        <iframe src="https://player.vimeo.com/video/552667319?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-İzmitPlus"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <h3 class="card-category text-rose">Sakarya</h3>
+                                    <h3 class="card-category text-rose"></h3>
                                     <h5 class="card-title">
-                                        ERC ÇARK İşitme Cihazları Arabacı Alanı Mah. Şehit Ast. Ali Kaya Sok. No:7, Serdivan/Sakarya
+
                                     </h5>
                                 </div>
                             </div>
                         </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card card-blog">
+                                <div class="card-header card-header-image">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe src="https://player.vimeo.com/video/552666391?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-Merkez"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <h3 class="card-category text-rose"></h3>
+                                    <h5 class="card-title">
+
+                                    </h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card card-blog">
+                                <div class="card-header card-header-image">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe src="https://player.vimeo.com/video/552665047?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-İzmitPlus"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <h3 class="card-category text-rose"></h3>
+                                    <h5 class="card-title">
+
+                                    </h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card card-blog">
+                                <div class="card-header card-header-image">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe src="https://player.vimeo.com/video/552664841?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-Merkez"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <h3 class="card-category text-rose"></h3>
+                                    <h5 class="card-title">
+
+                                    </h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card card-blog">
+                                <div class="card-header card-header-image">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe src="https://player.vimeo.com/video/552663822?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-İzmitPlus"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <h3 class="card-category text-rose"></h3>
+                                    <h5 class="card-title">
+
+                                    </h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card card-blog">
+                                <div class="card-header card-header-image">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe src="https://player.vimeo.com/video/552663822?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-Merkez"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <h3 class="card-category text-rose"></h3>
+                                    <h5 class="card-title">
+
+                                    </h5>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
 
