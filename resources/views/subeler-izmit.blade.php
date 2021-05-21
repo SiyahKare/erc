@@ -86,7 +86,7 @@
                         </div>
                         <div class="description">
                             <h4 class="info-title">Şirket Bilgileri</h4>
-                            <p> ERC İşitme 
+                            <p> ERC İşitme
                                 <br> VAT &#xB7; EN2341241
                                 <br> IBAN &#xB7; EN8732ENGB2300099123
                                 <br> Bank &#xB7; Great Britain Bank

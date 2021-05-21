@@ -22,6 +22,8 @@ Route::get('/urunler-widex-evoke', function () { return view('urunler-widex-evok
 Route::get('/urunler-widex-beyondz', function () { return view('urunler-widex-beyondz'); });
 Route::get('/urunler-widex-unique', function () { return view('urunler-widex-unique'); });
 
+Route::get('/urunler-temizlik', function () { return view('urunler-temizlik'); });
+Route::get('/urunler-piller', function () { return view('urunler-piller'); });
 
 Route::get('/iletisim', function () { return view('contact'); });
 
