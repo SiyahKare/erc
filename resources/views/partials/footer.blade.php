@@ -6,6 +6,7 @@
                     <h5>Hakkımızda</h5>
                     <p>Hizmet alanlarımız içerisinde , işitme testleri, işitme cihazı ve aksesuarları satışı, kulak kalıbı, işitme cihazı tamir, bakım, montaj ve servis hizmetleri bulunmaktadır.  </p>
                     <p>7/24 telefonlar ile bilgi iletişimi sağlanmaktadır. Özellikle yaşlı hastalara evde uygulama ve bakım hizmeti verilmektedir. En kısa zamanda sizi merkezimize tanışmaya bekliyoruz. </p>
+                    <p><img src="/assets/image/sgk-logo.png" width="200px"><br />ile anlaşmamız vardır.</p>
                 </div>
                 <div class="col-md-4">
                     <h5>Şubelerimiz</h5>

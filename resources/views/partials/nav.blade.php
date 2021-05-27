@@ -11,24 +11,11 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto">
-                <li class="dropdown nav-item">
-                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">earbuds</i> ÜRÜNLER
+
+                <li class="nav-item">
+                    <a href="/hakkimizda" class=" nav-link">
+                        <i class="material-icons">help_center</i> Hakkımızda
                     </a>
-                    <div class="dropdown-menu dropdown-with-icons">
-                        <a href="/urunler-signia" class="dropdown-item">
-                            <i class="material-icons">earbuds</i> SIGNIA
-                        </a>
-                        <a href="/urunler-widex" class="dropdown-item">
-                            <i class="material-icons">earbuds</i> WIDEX
-                        </a>
-                        <a href="/urunler-temizlik" class="dropdown-item">
-                            <i class="material-icons">earbuds</i> Temizlik ve Bakım
-                        </a>
-                        <a href="/urunler-piller" class="dropdown-item">
-                            <i class="material-icons">earbuds</i> Piller
-                        </a>
-                    </div>
                 </li>
 
                 <li class="dropdown nav-item">
@@ -51,19 +38,37 @@
                     </div>
                 </li>
 
+
+                <li class="dropdown nav-item">
+                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+                        <i class="material-icons">earbuds</i> ÜRÜNLER
+                    </a>
+                    <div class="dropdown-menu dropdown-with-icons">
+                        <a href="/urunler-signia" class="dropdown-item">
+                            <i class="material-icons">earbuds</i> SIGNIA
+                        </a>
+                        <a href="/urunler-widex" class="dropdown-item">
+                            <i class="material-icons">earbuds</i> WIDEX
+                        </a>
+                        <a href="/urunler-temizlik" class="dropdown-item">
+                            <i class="material-icons">earbuds</i> Temizlik ve Bakım
+                        </a>
+                        <a href="/urunler-piller" class="dropdown-item">
+                            <i class="material-icons">earbuds</i> Piller
+                        </a>
+                    </div>
+                </li>
+
+
                 <li class="nav-item">
                     <a href="/erc-tv" class=" nav-link">
                         <i class="material-icons">slideshow</i> ERC TV
                     </a>
                 </li>
-                <li class="nav-item">
-                    <a href="/hakkimizda" class=" nav-link">
-                        <i class="material-icons">help_center</i> Hakkımızda
-                    </a>
-                </li>
+
                 <li class="button-container nav-item">
                     <a href="https://api.whatsapp.com/send?phone=+905350470705&text=Merhaba,%20bilgi%20istiyorum" class="btn  btn-success btn-round btn-block">
-                        <i class="fa fa-whatsapp"></i> İLETİŞİM
+                        <i class="fa fa-whatsapp"></i> WhatsApp
                     </a>
                 </li>
             </ul>

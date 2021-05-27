@@ -32,34 +32,63 @@
         <div class="carousel-inner">
 
             <div class="carousel-item active">
-                <div class="page-header " style="background-image: url('/assets/image/header1.PNG');">
-                    <div class="container">
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="carousel-item">
-                <div class="page-header " style="background-image: url('/assets/image/header2.PNG');">
-                    <div class="container">
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="carousel-item">
-                <div class="page-header " style="background-image: url('/assets/image/header3.PNG');">
+                <div class="page-header " style="background-image: url('/assets/image/header/header1.png');">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-7 ml-auto text-right">
-                                <h1 class="title">Duymayan Kalmasın</h1>
+                            <div class="col-md-6 text-left">
+                                <h1 class="title">"Duymayan Kalmasın!"</h1>
                                 <h4><strong>ERC İŞİTME</strong> Kocaeli Siemens - Signia Tek Yetkili Servisi</h4>
                                 <br>
                                 <div class="buttons">
-                                    <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link" target="_blank">
+                                    <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-instagram"></i>
                                     </a>
-                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link" target="_blank">
+                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                        <i class="fa fa-facebook-square"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="page-header " style="background-image: url('/assets/image/header/header2.png');">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8 ml-auto mr-auto text-center">
+                                <h1 class="title">"Duymayan Kalmasın!"</h1>
+                                <h4><strong>ERC İŞİTME</strong> Kocaeli Siemens - Signia Tek Yetkili Servisi</h4>
+                                <br>
+                                <h6>Sosyal Bağlantılar</h6>
+                                <div class="buttons">
+                                    <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                        <i class="fa fa-facebook-square"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="page-header " style="background-image: url('/assets/image/header/header3.png');">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-7 ml-auto text-right">
+                                <h1 class="title">"Duymayan Kalmasın!"</h1>
+                                <h4><strong>ERC İŞİTME</strong> Kocaeli Siemens - Signia Tek Yetkili Servisi</h4>
+                                <br>
+                                <div class="buttons">
+                                    <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-facebook-square"></i>
                                     </a>
 
@@ -121,6 +150,17 @@
                             <p><b>(262) 322 8164 - (262) 322 8166</b> numaralarımızdan bilgi ve randevu alabilirsiniz.En kısa zamanda sizi merkezimize tanışmaya bekliyoruz.</p>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section text-center">
+            <div class="team">
+                <div class="row">
+                    <div class="col-md-12">
+                        <img src="/assets/image/isitme-deneyimi.png" width="90%"/>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -191,6 +231,17 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section text-center">
+            <div class="team">
+                <div class="row">
+                    <div class="col-md-12">
+                        <img src="/assets/image/signia-app.png" width="90%" />
+                    </div>
+
                 </div>
             </div>
         </div>
