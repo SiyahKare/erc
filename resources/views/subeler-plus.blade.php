@@ -75,8 +75,14 @@
                         </div>
                         <div class="description">
                             <h4 class="info-title">Telefon</h4>
-                            <p> (0262) 323 13 24
-                                <br> +90 (535) 047 07 06
+                            <p> +90 (262) 323 13 24 <br />
+                                 +90 (535) 047 07 06
+                                <br />
+                                <a href="tel:+905350470706">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
 
                             </p>
                         </div>

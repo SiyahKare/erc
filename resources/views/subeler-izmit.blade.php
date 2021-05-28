@@ -77,7 +77,14 @@
                             <p> (262) 322 8164 - (262) 322 8166
                                 <br> GSM : +90 535 047 07 05
                                 <br> Faks : +90 262 322 8136
+                                <br />
+                                <a href="tel:+905350470705">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
                             </p>
+
                         </div>
                     </div>
                     <div class="info info-horizontal">

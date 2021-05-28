@@ -32,34 +32,63 @@
         <div class="carousel-inner">
 
             <div class="carousel-item active">
-                <div class="page-header " style="background-image: url('/assets/image/header1.PNG');">
-                    <div class="container">
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="carousel-item">
-                <div class="page-header " style="background-image: url('/assets/image/header2.PNG');">
-                    <div class="container">
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="carousel-item">
-                <div class="page-header " style="background-image: url('/assets/image/header3.PNG');">
+                <div class="page-header " style="background-image: url('/assets/image/header/header1.png');">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-7 ml-auto text-right">
-                                <h1 class="title">Duymayan Kalmasın</h1>
+                            <div class="col-md-6 text-left">
+                                <h1 class="title">"Duymayan Kalmasın!"</h1>
                                 <h4><strong>ERC İŞİTME</strong> Kocaeli Siemens - Signia Tek Yetkili Servisi</h4>
                                 <br>
                                 <div class="buttons">
-                                    <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link" target="_blank">
+                                    <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-instagram"></i>
                                     </a>
-                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link" target="_blank">
+                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                        <i class="fa fa-facebook-square"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="page-header " style="background-image: url('/assets/image/header/header2.png');">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8 ml-auto mr-auto text-center">
+                                <h1 class="title">"Duymayan Kalmasın!"</h1>
+                                <h4><strong>ERC İŞİTME</strong> Kocaeli Siemens - Signia Tek Yetkili Servisi</h4>
+                                <br>
+                                <h6>Sosyal Bağlantılar</h6>
+                                <div class="buttons">
+                                    <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                        <i class="fa fa-facebook-square"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="page-header " style="background-image: url('/assets/image/header/header3.png');">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-7 ml-auto text-right">
+                                <h1 class="title">"Duymayan Kalmasın!"</h1>
+                                <h4><strong>ERC İŞİTME</strong> Kocaeli Siemens - Signia Tek Yetkili Servisi</h4>
+                                <br>
+                                <div class="buttons">
+                                    <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-facebook-square"></i>
                                     </a>
 
@@ -155,7 +184,14 @@
                                 <i class="material-icons">fingerprint</i>
                             </div>
                             <h4 class="info-title">ÜCRETSİZ RANDEVU</h4>
-                            <p><b>(262) 322 8164 - (262) 322 8166</b> numaralarımızdan bilgi ve randevu alabilirsiniz.En kısa zamanda sizi merkezimize tanışmaya bekliyoruz.</p>
+                            <p>
+                                <b>0(262) 322 8164 - 0(262) 322 8166</b> numaralarımızdan bilgi ve randevu alabilirsiniz.En kısa zamanda sizi merkezimize tanışmaya bekliyoruz.<br />
+                                <a href="tel:+902623228164">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -176,8 +212,14 @@
                             <div class="card-body">
                                 <h3 class="card-category text-rose">İzmit Merkez</h3>
                                 <h5 class="card-title">
-                                    Alemdar Cad. Beyaz Han Is Merkezi (4 Yol Ziraat Bank. Üstü) No:21 Kat:2 İzmit/KOCAELİ
+                                    Alemdar Cad. Beyaz Han İş Merkezi (Hacıoğlu Lahmacun Çaprazı, Dörtyol Ziraat Bank. Üstü) No:21 Kat:2 İzmit/KOCAELİ
                                 </h5>
+                                <br />
+                                <a href="tel:+905350470705">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -193,6 +235,12 @@
                                 <h5 class="card-title">
                                     Cedit Mahallesi Bostanlar Sokak No:10 Kat:1 D:2 (Kocaeli Devlet Hastanesi Çaprazı) İzmit/KOCAELİ
                                 </h5>
+                                <br />
+                                <a href="tel:+905350470706">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -210,6 +258,12 @@
                                 <h5 class="card-title">
                                     İbnisina Mah. Okul Sok. No:2 C (Poliklinik kapısı çaprazı), Derince/Kocaeli
                                 </h5>
+                                <br />
+                                <a href="tel:+905350506101">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -223,8 +277,14 @@
                             <div class="card-body">
                                 <h3 class="card-category text-rose">Sakarya</h3>
                                 <h5 class="card-title">
-                                    ERC ÇARK İşitme Cihazları Arabacı Alanı Mah. Şehit Ast. Ali Kaya Sok. No:7, Serdivan/Sakarya
+                                    ERC Çark İşitme Cihazları Arabacı Alanı Mah. Şehit Ast. Ali Kaya Sok. No:7, Serdivan/Sakarya
                                 </h5>
+                                <br />
+                                <a href="tel:+905550861677">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -240,11 +300,11 @@
                         <div class="card card-profile card-plain">
                             <div class="row">
                                 <div class="col-md-5">
-                                    <div class="card-header card-header-image">
-                                        <a href="#pablo">
+                                    <a href="/urunler-signia">
+                                        <div class="card-header card-header-image">
                                             <img class="img" src="/assets/image/signia.png">
-                                        </a>
-                                    </div>
+                                        </div>
+                                    </a>
                                 </div>
                                 <div align="left" class="col-md-7">
                                     <div class="card-body">
@@ -260,11 +320,11 @@
                         <div class="card card-profile card-plain">
                             <div class="row">
                                 <div class="col-md-5">
-                                    <div class="card-header card-header-image">
-                                        <a href="#pablo">
-                                            <img class="img" src="/assets/image/widex.png">
-                                        </a>
-                                    </div>
+                                    <a href="/urunler-widex">
+                                        <div class="card-header card-header-image">
+                                            <img class="img" src="/assets/image/widex.png" alt="WIDEX">
+                                        </div>
+                                    </a>
                                 </div>
                                 <div align="left" class="col-md-7">
                                     <div class="card-body">

@@ -62,9 +62,8 @@
                         </div>
                         <div class="description">
                             <h4 class="info-title">Derince</h4>
-                            <p> İbnisina Mah. Okul Sok. No:2 C (Poliklinik kapısı çaprazı),
-                                <br> (Poliklinik kapısı çaprazı),
-                                <br> Derince/Kocaeli
+                            <p> İbnisina Mah. Okul Sok. No:2 C (Poliklinik kapısı çaprazı) <br />
+                                Derince/Kocaeli
                             </p>
                         </div>
                     </div>
@@ -74,9 +73,15 @@
                         </div>
                         <div class="description">
                             <h4 class="info-title">Telefon</h4>
-                            <p>  0(262) 233 0 234
-                                <br> +90 262 322 8136
-
+                            <p>  0(262) 233 0 234 <br />
+                                 +90 262 322 8136 <br />
+                                 GSM: +90 535 0506101
+                                <br />
+                                <a href="tel:+905350506101">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
                             </p>
                         </div>
                     </div>
@@ -118,7 +123,7 @@
 <script src="/vendor/frontend/assets/assets-for-demo/js/material-kit-demo.js"></script>
 <script>
     $().ready(function() {
-        var myLatlng = new google.maps.LatLng(40.7626745, 29.8122664);
+        var myLatlng = new google.maps.LatLng(40.7626427, 29.8122611);
         var mapOptions = {
             zoom: 15,
             center: myLatlng,

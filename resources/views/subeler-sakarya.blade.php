@@ -74,9 +74,14 @@
                         </div>
                         <div class="description">
                             <h4 class="info-title">Telefon</h4>
-                            <p> 0(264) 777 1677
-                                <br> +90 555 086 1677
-
+                            <p> 0(264) 777 1677 <br />
+                                +90 555 086 1677
+                                <br />
+                                <a href="tel:+905550861677">
+                                    <button class="btn btn-primary btn-round">
+                                        <i class="material-icons">call</i> BİZİ ARAYIN
+                                    </button>
+                                </a>
                             </p>
                         </div>
                     </div>
@@ -118,7 +123,7 @@
 <script src="/vendor/frontend/assets/assets-for-demo/js/material-kit-demo.js"></script>
 <script>
     $().ready(function() {
-        var myLatlng = new google.maps.LatLng(40.766178, 29.937746);
+        var myLatlng = new google.maps.LatLng(40.775391, 30.3828291);
         var mapOptions = {
             zoom: 15,
             center: myLatlng,

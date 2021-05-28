@@ -3,10 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="bcd22701-9bbd-458c-b1ff-6853fde5729e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/image/sgk-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/image/sgk-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/anasayfa.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/anasayfa.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials/nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/nav.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/hakkimizda.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/hakkimizda.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/subeler-derince.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/subeler-derince.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/subeler-izmit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/subeler-izmit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/subeler-plus.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/subeler-plus.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/subeler-sakarya.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/subeler-sakarya.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +185,8 @@
       <workItem from="1621431717438" duration="534000" />
       <workItem from="1621475945461" duration="5553000" />
       <workItem from="1621513913042" duration="2511000" />
-      <workItem from="1622126714057" duration="2032000" />
+      <workItem from="1622126714057" duration="3957000" />
+      <workItem from="1622192304857" duration="3500000" />
     </task>
     <servers />
   </component>
