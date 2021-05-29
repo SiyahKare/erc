@@ -35,7 +35,7 @@
                 <div class="col-md-6 col-sm-6">
                     <div class="tab-content">
                         <div class="tab-pane active" id="product-page1">
-                            <img src="/assets/image/products/widex/evoke.jpeg" />
+                            <img src="/assets/image/products/widex/beyondz.png" />
                         </div>
                     </div>
 

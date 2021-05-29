@@ -9,7 +9,7 @@
     <link rel="apple-touch-icon" href="/assets/image/apple-icon.png">
     <link rel="icon" href="/assets/image/favicon.png">
     <title>
-        ERC İşitme Cihazları Merkezi - İzmit - Kocaeli
+        Duymayan Kalmasın! - ERC İşitme Cihazları Merkezi - İzmit - Kocaeli Siemens - Signia Tek Yetkili Servisi
     </title>
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />

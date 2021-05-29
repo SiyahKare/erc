@@ -43,13 +43,13 @@
                 <!-- CARD-1 -->
                 <div class="col-md-4">
                     <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-widex-evoke">
+                        <a href="/urunler-widex-evoke">
+                            <div class="card-header card-header-image">
                                 <img src="/assets/image/products/widex/evoke.jpeg" alt="Widex EVOKE™">
-                            </a>
-                        </div>
+                            </div>
+                        </a>
                         <div class="card-body">
-                            <h3 class="card-category text-rose">Widex EVOKE™</h3>
+                            <a href="/urunler-widex-evoke"><h3 class="card-category text-rose">Widex EVOKE™</h3></a>
                             <h5 class="card-title">
                                 <a href="/urunler-widex-evoke">EVOKE işitme cihazı, akıllı bir cihazdan beklediğiniz gibi her kullandığınızda evrimleşir. </a>
                             </h5>
@@ -61,11 +61,11 @@
                 <!-- CARD-2 -->
                 <div class="col-md-4">
                     <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-widex-beyondz">
+                        <a href="/urunler-widex-beyondz">
+                            <div class="card-header card-header-image">
                                 <img src="/assets/image/products/widex/beyondz.png" alt="WIDEX BEYOND Z™">
-                            </a>
-                        </div>
+                            </div>
+                        </a>
                         <div class="card-body">
                             <h3 class="card-category text-rose">WIDEX BEYOND Z™</h3>
                             <h5 class="card-title">
@@ -79,13 +79,13 @@
                 <!-- CARD-3 -->
                 <div class="col-md-4">
                     <div class="card card-blog">
-                        <div class="card-header card-header-image">
-                            <a href="/urunler-widex-unique">
+                        <a href="/urunler-widex-unique">
+                            <div class="card-header card-header-image">
                                 <img src="/assets/image/products/widex/unique.png" alt="WIDEX UNIQUE">
-                            </a>
-                        </div>
+                            </div>
+                        </a>
                         <div class="card-body ">
-                            <h3 class="card-category text-rose">WIDEX UNIQUE </h3>
+                            <a href="/urunler-widex-unique"><h3 class="card-category text-rose">WIDEX UNIQUE </h3></a>
                             <h5 class="card-title">
                                 <a href="/urunler-widex-unique">"İŞİTMEDE YENI UFUKLAR"</a>
                             </h5>

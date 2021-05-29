@@ -35,14 +35,14 @@
                 <div class="col-md-6 col-sm-6">
                     <div class="tab-content">
                         <div class="tab-pane active" id="product-page1">
-                            <img src="/assets/image/products/widex/evoke.jpeg" />
+                            <img src="/assets/image/products/widex/unique.png" />
                         </div>
                     </div>
 
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <h2 class="title"> Widex EVOKE™ </h2>
-                    <h3 class="main-price">EVOKE işitme cihazı, akıllı bir cihazdan beklediğiniz gibi her kullandığınızda evrimleşir. </h3>
+                    <h2 class="title"> WIDEX UNIQUE </h2>
+                    <h3 class="main-price">İŞİTMEDE YENI UFUKLAR</h3>
                     <div id="accordion" role="tablist">
                         <div class="card card-collapse">
                             <div class="card-header" role="tab" id="headingOne">
