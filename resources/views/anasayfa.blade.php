@@ -43,7 +43,7 @@
                                     <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-instagram"></i>
                                     </a>
-                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                    <a href="https://www.facebook.com/erc.isitmecihazlari" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-facebook-square"></i>
                                     </a>
                                 </div>
@@ -66,7 +66,7 @@
                                     <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-instagram"></i>
                                     </a>
-                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                    <a href="https://www.facebook.com/erc.isitmecihazlari" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-facebook-square"></i>
                                     </a>
                                 </div>
@@ -88,7 +88,7 @@
                                     <a href="https://www.instagram.com/ercisitmecihazlari/" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-instagram"></i>
                                     </a>
-                                    <a href="https://www.facebook.com/ercisitmemerkezi" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
+                                    <a href="https://www.facebook.com/erc.isitmecihazlari" class="btn btn-just-icon btn-white btn-link btn-lg" target="_blank">
                                         <i class="fa fa-facebook-square"></i>
                                     </a>
 
