@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcd22701-9bbd-458c-b1ff-6853fde5729e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/erc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/erc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2021_07_26_125604_create_products_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +195,10 @@
       <workItem from="1622724240231" duration="1867000" />
       <workItem from="1623577394018" duration="103000" />
       <workItem from="1624185905008" duration="1143000" />
-      <workItem from="1627218486027" duration="3355000" />
+      <workItem from="1627218486027" duration="4954000" />
+      <workItem from="1627372487781" duration="666000" />
+      <workItem from="1627412244485" duration="497000" />
+      <workItem from="1627470434133" duration="241000" />
     </task>
     <servers />
   </component>
