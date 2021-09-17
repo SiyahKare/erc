@@ -12,7 +12,8 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "herkod/laravel-tr": "^1.0",
         "laravel/framework": "^8.12",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "onurmutlu/parasut-laravel8": "dev-main"
     },
     "require-dev": {
         "backpack/generators": "^3.1",

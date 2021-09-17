@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcd22701-9bbd-458c-b1ff-6853fde5729e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/NoteCrudController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ProposalCrudController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Requests/NoteRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Requests/ProposalRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Note.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Proposal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2021_08_04_040021_create_proposals_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2021_08_04_063241_create_notes_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2021_08_11_173406_create_contacts_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2021_09_17_144729_create_products_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/erc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/erc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/backpack/base.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/backpack/base.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/vendor/backpack/base/inc/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vendor/backpack/base/inc/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/ContactCrudController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ContactCrudController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/ProductCrudController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ProductCrudController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_07_25_141953_create_contacts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_07_26_125604_create_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +163,7 @@
       <path value="$PROJECT_DIR$/vendor/laracasts/generators" />
       <path value="$PROJECT_DIR$/vendor/backpack/generators" />
       <path value="$PROJECT_DIR$/vendor/herkod/laravel-tr" />
+      <path value="$PROJECT_DIR$/vendor/onurmutlu/parasut-laravel8" />
     </include_path>
   </component>
   <component name="ProjectId" id="1rZ2DmJ18E2jMig4fb4M8JgtP4a" />
@@ -234,7 +252,7 @@
       <workItem from="1631412375699" duration="30000" />
       <workItem from="1631649401826" duration="389000" />
       <workItem from="1631787231008" duration="155000" />
-      <workItem from="1631787434949" duration="5466000" />
+      <workItem from="1631787434949" duration="7979000" />
     </task>
     <servers />
   </component>

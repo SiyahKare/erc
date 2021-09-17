@@ -117,6 +117,7 @@
       <path value="$PROJECT_DIR$/vendor/laracasts/generators" />
       <path value="$PROJECT_DIR$/vendor/backpack/generators" />
       <path value="$PROJECT_DIR$/vendor/herkod/laravel-tr" />
+      <path value="$PROJECT_DIR$/vendor/onurmutlu/parasut-laravel8" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3">

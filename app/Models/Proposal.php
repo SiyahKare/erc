@@ -5,7 +5,7 @@ namespace App\Models;
 use Backpack\CRUD\app\Models\Traits\CrudTrait;
 use Illuminate\Database\Eloquent\Model;
 
-class Contact extends Model
+class Proposal extends Model
 {
     use CrudTrait;
 
@@ -15,11 +15,11 @@ class Contact extends Model
     |--------------------------------------------------------------------------
     */
 
-    protected $table = 'contacts';
+    protected $table = 'proposals';
     protected $primaryKey = 'id';
     // public $timestamps = false;
     protected $guarded = ['id'];
-    protected $fillable = ['contact_id','contact_type','name','email','short_name','tax_number','tax_office','account_type','city','district','address','phone'];
+    protected $fillable = [];
     // protected $hidden = [];
     // protected $dates = [];
 
@@ -34,6 +34,16 @@ class Contact extends Model
     | RELATIONS
     |--------------------------------------------------------------------------
     */
+
+    public function product()
+    {
+        return $this->hasMany('App\Models\Product', 'product_id');
+    }
+
+    public function contact()
+    {
+        return $this->hasMany('App\Models\Contact', 'contact_id');
+    }
 
     /*
     |--------------------------------------------------------------------------
