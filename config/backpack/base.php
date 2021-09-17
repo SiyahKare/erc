@@ -24,14 +24,14 @@ return [
     // ----
 
     // Project name. Shown in the window title.
-    'project_name' => 'Backpack Admin Panel',
+    'project_name' => 'ERC Admin Panel',
 
     // When clicking on the admin panel's top-left logo/name,
     // where should the user be redirected?
     // The string below will be passed through the url() helper.
     // - default: '' (project root)
     // - alternative: 'admin' (the admin's dashboard)
-    'home_link' => '',
+    'home_link' => 'admin',
 
     // Content of the HTML meta robots tag to prevent indexing and link following
     'meta_robots_content' => 'noindex, nofollow',
@@ -71,13 +71,13 @@ return [
     // ------
 
     // Menu logo. You can replace this with an <img> tag if you have a logo.
-    'project_logo'   => '<b>Back</b>pack',
+    'project_logo'   => '<b>ERC</b>app',
 
     // Show / hide breadcrumbs on admin panel pages.
     'breadcrumbs' => true,
 
     // Horizontal navbar classes. Helps make the admin panel look similar to your project's design.
-    'header_class' => 'app-header bg-light border-0 navbar',
+    'header_class' => 'app-header bg-red bg-light border-0 navbar',
     // For background colors use: bg-dark, bg-primary, bg-secondary, bg-danger, bg-warning, bg-success, bg-info, bg-blue, bg-light-blue, bg-indigo, bg-purple, bg-pink, bg-red, bg-orange, bg-yellow, bg-green, bg-teal, bg-cyan, bg-white
     // For links to be visible on different background colors use: "navbar-dark", "navbar-light", "navbar-color"
 
@@ -105,10 +105,10 @@ return [
     // change background color with bg-dark, bg-primary, bg-secondary, bg-danger, bg-warning, bg-success, bg-info, bg-blue, bg-light-blue, bg-indigo, bg-purple, bg-pink, bg-red, bg-orange, bg-yellow, bg-green, bg-teal, bg-cyan, bg-white
 
     // Developer or company name. Shown in footer.
-    'developer_name' => 'Cristian Tabacitu',
+    'developer_name' => 'SiyahKare',
 
     // Developer website. Link in footer. Type false if you want to hide it.
-    'developer_link' => 'http://tabacitu.ro',
+    'developer_link' => 'http://siyahkare.com',
 
     // Show powered by Laravel Backpack in the footer? true/false
     'show_powered_by' => true,
@@ -173,7 +173,7 @@ return [
 
     // The prefix used in all base routes (the 'admin' in admin/dashboard)
     // You can make sure all your URLs use this prefix by using the backpack_url() helper instead of url()
-    'route_prefix' => 'admin',
+    'route_prefix' => 'root',
 
     // The web middleware (group) used in all base & CRUD routes
     // If you've modified your "web" middleware group (ex: removed sessions), you can use a different
@@ -277,20 +277,5 @@ return [
     //
     // You can rename this disk here. Default: root
     'root_disk_name' => 'root',
-
-    /*
-    |--------------------------------------------------------------------------
-    | License Code
-    |--------------------------------------------------------------------------
-    |
-    | If you, your employer or your client make money by using Backpack, you need
-    | to purchase a license. A license code will be provided after purchase,
-    | which you can put here or in your ENV file in staging & production.
-    |
-    | More info and payment form on:
-    | https://www.backpackforlaravel.com
-    |
-    */
-
     'license_code' => env('BACKPACK_LICENSE', false),
 ];
