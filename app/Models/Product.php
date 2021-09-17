@@ -16,12 +16,12 @@ class Product extends Model
     */
 
     protected $table = 'products';
-    // protected $primaryKey = 'id';
-    // public $timestamps = false;
+    protected $primaryKey = 'id';
     protected $guarded = ['id'];
-    // protected $fillable = [];
+    protected $fillable = ['name', 'product_id', 'code', 'name', 'vat_rate', 'unit', 'list_price', 'list_price_in_trl', 'currency', 'buying_price', 'buying_price_in_trl', 'buying_currency', 'stock_count', 'initial_stock_count', 'critical_stock_count'];
     // protected $hidden = [];
     // protected $dates = [];
+    // public $translatable = ['name', 'description', 'details', 'features', 'extras'];
 
     /*
     |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ class Product extends Model
 
     /*
     |--------------------------------------------------------------------------
-    | ACCESSORS
+    | ACCESORS
     |--------------------------------------------------------------------------
     */
 

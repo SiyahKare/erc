@@ -6,11 +6,6 @@ use App\Http\Requests\ProductRequest;
 use Backpack\CRUD\app\Http\Controllers\CrudController;
 use Backpack\CRUD\app\Library\CrudPanel\CrudPanelFacade as CRUD;
 
-/**
- * Class ProductCrudController
- * @package App\Http\Controllers\Admin
- * @property-read \Backpack\CRUD\app\Library\CrudPanel\CrudPanel $crud
- */
 class ProductCrudController extends CrudController
 {
     use \Backpack\CRUD\app\Http\Controllers\Operations\ListOperation;
@@ -19,60 +14,145 @@ class ProductCrudController extends CrudController
     use \Backpack\CRUD\app\Http\Controllers\Operations\DeleteOperation;
     use \Backpack\CRUD\app\Http\Controllers\Operations\ShowOperation;
 
-    /**
-     * Configure the CrudPanel object. Apply settings to all operations.
-     * 
-     * @return void
-     */
     public function setup()
     {
         CRUD::setModel(\App\Models\Product::class);
-        CRUD::setRoute(config('backpack.base.route_prefix') . '/product');
-        CRUD::setEntityNameStrings('product', 'products');
+        CRUD::setRoute(config('backpack.base.route_prefix').'/product');
+        CRUD::setEntityNameStrings('Ürün', 'Ürünler');
     }
 
-    /**
-     * Define what happens when the List operation is loaded.
-     * 
-     * @see  https://backpackforlaravel.com/docs/crud-operation-list-entries
-     * @return void
-     */
     protected function setupListOperation()
     {
-        CRUD::setFromDb(); // columns
-
-        /**
-         * Columns can be defined using the fluent syntax or array syntax:
-         * - CRUD::column('price')->type('number');
-         * - CRUD::addColumn(['name' => 'price', 'type' => 'number']); 
-         */
+        CRUD::addColumn(['name' => 'product_id', 'label' => 'Ürün ID']);
+        CRUD::addColumn(['name' => 'code', 'label' => 'Ürün Kodu']);
+        CRUD::addColumn(['name' => 'name', 'label' => 'Ürün Adı']);
+        CRUD::addColumn(['name' => 'list_price', 'label' => 'Liste Fiyatı', 'type'  => 'number']);
+        CRUD::addColumn(['name' => 'stock_count', 'label' => 'Stok Adedi', 'type'  => 'number']);
     }
 
-    /**
-     * Define what happens when the Create operation is loaded.
-     * 
-     * @see https://backpackforlaravel.com/docs/crud-operation-create
-     * @return void
-     */
     protected function setupCreateOperation()
     {
         CRUD::setValidation(ProductRequest::class);
 
-        CRUD::setFromDb(); // fields
+        CRUD::addField([ // Text
+            'name'  => 'name',
+            'label' => 'Ürün Adı',
+            'type'  => 'text',
+        ]);
 
-        /**
-         * Fields can be defined using the fluent syntax or array syntax:
-         * - CRUD::field('price')->type('number');
-         * - CRUD::addField(['name' => 'price', 'type' => 'number'])); 
-         */
+        CRUD::addField([ // Text
+            'name'  => 'product_id',
+            'label' => 'Ürün ID',
+            'type'  => 'text',
+            'readonly'=>'readonly',
+            'wrapperAttributes' => ['class' => 'form-group col-md-3'],
+        ]);
+
+        CRUD::addField([ // Text
+            'name'  => 'code',
+            'label' => 'Ürün Kodu',
+            'type'  => 'text',
+            'wrapperAttributes' => ['class' => 'form-group col-md-3'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([ // Text
+            'name'  => 'vat_rate',
+            'label' => 'KDV Oranı',
+            'type'  => 'text',
+            'wrapperAttributes' => ['class' => 'form-group col-md-3'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([ // Text
+            'name'  => 'unit',
+            'label' => 'Birim',
+            'type'  => 'text',
+            'wrapperAttributes' => ['class' => 'form-group col-md-3'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([   // Number
+            'name'  => 'list_price',
+            'label' => 'Liste Fiyatı',
+            'type'  => 'number',
+            // optionals
+            // 'attributes' => ["step" => "any"], // allow decimals
+            // 'prefix' => '$',
+            'suffix' => '.00',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([   // Number
+            'name'  => 'list_price_in_trl',
+            'label' => 'Liste Fiyatı TL',
+            'type'  => 'number',
+            // optionals
+            // 'attributes' => ["step" => "any"], // allow decimals
+            'prefix' => '₺',
+            'suffix' => '.00',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([ // Text
+            'name'  => 'currency',
+            'label' => 'Döviz Cinsi',
+            'type'  => 'text',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([   // Number
+            'name'  => 'buying_price',
+            'label' => 'Alış Fiyatı',
+            'type'  => 'number',
+            // optionals
+            // 'attributes' => ["step" => "any"], // allow decimals
+            // 'prefix' => '$',
+            'suffix' => '.00',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([   // Number
+            'name'  => 'buying_price_in_trl',
+            'label' => 'Alış Fiyatı TL',
+            'type'  => 'number',
+            // optionals
+            // 'attributes' => ["step" => "any"], // allow decimals
+            'prefix' => '₺',
+            'suffix' => '.00',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([ // Text
+            'name'  => 'buying_currency',
+            'label' => 'Alış Döviz Cinsi',
+            'type'  => 'text',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([   // Number
+            'name'  => 'stock_count',
+            'label' => 'Stok',
+            'type'  => 'number',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([   // Number
+            'name'  => 'initial_stock_count',
+            'label' => 'İlk Stok',
+            'type'  => 'number',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+        CRUD::addField([   // Number
+            'name'  => 'critical_stock_count',
+            'label' => 'Kritik Stok',
+            'type'  => 'number',
+            'wrapperAttributes' => ['class' => 'form-group col-md-4'] // extra HTML attributes for the field wrapper - mostly for resizing fields
+        ]);
+
+
+
+        $this->crud->setOperationSetting('contentClass', 'col-md-12');
     }
 
-    /**
-     * Define what happens when the Update operation is loaded.
-     * 
-     * @see https://backpackforlaravel.com/docs/crud-operation-update
-     * @return void
-     */
     protected function setupUpdateOperation()
     {
         $this->setupCreateOperation();
