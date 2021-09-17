@@ -71,7 +71,7 @@ return [
     // ------
 
     // Menu logo. You can replace this with an <img> tag if you have a logo.
-    'project_logo'   => '<b>ERC</b>app',
+    'project_logo'   => '<img width="100" src="https://ercisitme.com/assets/image/logo.png" alt="">',
 
     // Show / hide breadcrumbs on admin panel pages.
     'breadcrumbs' => true,
