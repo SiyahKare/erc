@@ -131,9 +131,6 @@ Route::get('api/product', function () {
                 'critical_stock_count' => $value['attributes']['critical_stock_count']
             ]);
 
-
-
-
             $k++;
             // $contentProducts[$value['id']] = $value['attributes']['name'];
         }
