@@ -121,6 +121,7 @@
                     <h5 class="description">Hizmet alanlarımız içerisinde , işitme testleri, işitme cihazı ve aksesuarları satışı, kulak kalıbı, işitme cihazı tamir, bakım, montaj ve servis hizmetleri bulunmaktadır. 7/24 telefonlar ile bilgi iletişimi sağlanmaktadır. Özellikle yaşlı hastalara evde uygulama ve bakım hizmeti verilmektedir. En kısa zamanda sizi merkezimize tanışmaya bekliyoruz.</h5>
                 </div>
             </div>
+            <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/622164862?h=18b7e08598&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="HJGGHJ.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
             <div class="features">
                 <div class="row">
                     <div class="col-md-4">
